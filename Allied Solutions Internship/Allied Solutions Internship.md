@@ -7,12 +7,13 @@ In addition to the hands-on opportunity that I was presented, I also had the opp
 
 Part of Allied Solutions internship program incorporated a final project where every intern was paired with a partner from different department and every intern was tasked to answer the following questions:
 
-<div>
-  
+<div align="center">
+  <image src="https://github.com/bchen96/Writeups/blob/main/Allied%20Solutions%20Internship/Big%20Questions.png">
 </div>
 To answer the two questions, I conducted a survey with several mentors and my director to gain their perspective on what they do and how they thought their department supported Allied Solutions business goals as well as their understanding of how do software developers and system administrators work together. What was most interesting from my survey was that Many mentors metaphorically agreed that a system's administrator's core duty was to keep the lights on, emphasizing that their primary goal was to maintain both applications and servers and keep it running throughout the day. For the second question, I asked how they believed system administrators and software developers (my partner was in software development department) work together? What overlaps exist between the two? Many stated that system administrators test what developers develop. For example, developers work on latest update to code for applications that system administrations deploy as a package. When bugs are found in deployments, system administrators rollback the deployment and hand back the deployment code for developers to revise before a future attempt is made.
 
-<div>
+<div align="center">
+  <image src="https://github.com/bchen96/Writeups/blob/main/Allied%20Solutions%20Internship/Open%20House%20Presentation.jpg">
 </div>
 
 While the scope of my internship was focused on system administration,  I was determined to make my internship to help progress me towards my career in cybersecurity. So I spoke to my director who was gracious enough to connect me to the chief information security officer and give me the chance to pitch myself in front of him to not only put forth myself as a person, but also demonstrate my troubleshooting methodology. Speaking to the CISO of the company not only gave me perspective to his career, but it gave me directions for which I can take to progress into cybersecurity as I continue towards obtaining my Bachelor's Degree in information security
