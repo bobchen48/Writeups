@@ -1,0 +1,20 @@
+## Internship at Allied Solutions ##
+During summer of 2023, I had the opportunity to intern at Allied Solutions LLC as IT Operations working collaboratively with system administrators performing many duties related to system administration. As a system administration intern, my role at its core was heavily focused on troubleshooting incoming JIRA tickets. Ticket requests often involved retrieving/modifying customer data using SQL, stopping/starting Windows Services in certain environments, and maintaining server disk space usage through appropriate disk cleanups.
+
+Once I started figuring out patterns to the tickets I was resolving, I started to create SQL and PowerShell scripts to help me resolve those tickets more efficiently so that certain tickets can be resolved in one click rather than ten clicks. For example, one of my many scripts involved restarting certain Windows Services in a designated enterprise environment. During my first two weeks initially, I relied on using Windows Services tool to restart them. However, after a couple of PowerShell lessons from both my mentors and LinkedIn Learning, I soon discovered that I can create a script that would allow me to restart all of them with one click.
+
+In addition to the hands-on opportunity that I was presented, I also had the opportunity to network with peers from my department as well as all the other summer interns from other departments. The internship experience included opportunity to partake in many events including volunteer at Helping Veterans and Families (HVAF), eat lunch with senior leaders at my department, and participate in my first formal luncheon. During those events, I got to network with the other interns, which allowed me to hear their story. Stories from other interns allowed me to gauche and hear their career paths, aspirations, their background, and many more. I always walked away wanting to know more.
+
+Part of Allied Solutions internship program incorporated a final project where every intern was paired with a partner from different department and every intern was tasked to answer the following questions:
+
+<div>
+  
+</div>
+To answer the two questions, I conducted a survey with several mentors and my director to gain their perspective on what they do and how they thought their department supported Allied Solutions business goals as well as their understanding of how do software developers and system administrators work together. What was most interesting from my survey was that Many mentors metaphorically agreed that a system's administrator's core duty was to keep the lights on, emphasizing that their primary goal was to maintain both applications and servers and keep it running throughout the day. For the second question, I asked how they believed system administrators and software developers (my partner was in software development department) work together? What overlaps exist between the two? Many stated that system administrators test what developers develop. For example, developers work on latest update to code for applications that system administrations deploy as a package. When bugs are found in deployments, system administrators rollback the deployment and hand back the deployment code for developers to revise before a future attempt is made.
+
+<div>
+</div>
+
+While the scope of my internship was focused on system administration,  I was determined to make my internship to help progress me towards my career in cybersecurity. So I spoke to my director who was gracious enough to connect me to the chief information security officer and give me the chance to pitch myself in front of him to not only put forth myself as a person, but also demonstrate my troubleshooting methodology. Speaking to the CISO of the company not only gave me perspective to his career, but it gave me directions for which I can take to progress into cybersecurity as I continue towards obtaining my Bachelor's Degree in information security
+
+My internship at Allied Solutions was impactful, motivating, energizing, and many more. I have left wanting more.
