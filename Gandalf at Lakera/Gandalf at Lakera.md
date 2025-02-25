@@ -6,7 +6,7 @@ Similar other common injection-based attack, prompt injection attack seeks to ta
 In the game itself, users are presented with the challenge to prompt Gandalf AI for the passwords across 7 levels (plus a bonus level 8). At each sequential level, it becomes progressively harder and harder to prompt Gandalf for the password as certain questions are met with an automatic deny if the questions include keywords such as passwords, passphrase.
 
 <div align="center">
-  <image src="https://github.com/bchen96/Writeups/blob/main/Allied%20Solutions%20Internship/Big%20Questions.png](https://github.com/bchen96/Writeups/blob/main/Gandalf%20at%20Lakera/Gandalf%20AI.jpg">
+  <image src="https://github.com/bchen96/Writeups/blob/main/Gandalf%20at%20Lakera/Gandalf%20AI.jpg">
 </div>
 At level 1-3, I found that I was able to utilize simple tricks such as directly prompting Gandalf to give me the password or spell the password. Starting at level 4, the AI starts to learn and pick up the "tricks" and starts implementing certain input validation against phrases that contains certain keywords such as password and passphrase. To make my prompt less subtle, I used techniques such as asking Gandalf to describe the password (asking for password definition), getting the password scrambled, spelling password backwards, and having Gandalf write me a poem that listed each letter of the password as the first letter of each line.
 
