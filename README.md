@@ -1,1 +1,1 @@
-This Section will feature writeups of my professional development throughout college
+This Section will feature writeups of throughout my professional development
