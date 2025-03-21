@@ -46,7 +46,7 @@ commands you need. Once you lab to the point it is borderline boring, that’s w
 
 ***II.	ExSim Boson and Pacing***
 
-As Cisco answers do not let you go back once you answer a question, you must figure out how to pace yourself to where you will have enough time spent between simulation questions and non-simulation. This was why I thought ExSim significantly increased 
+As Cisco exams do not let you go back once you answer a question, you must figure out how to pace yourself throughout the exam given this constraint. This was why I thought ExSim significantly increased 
 my confidence because it gave me an opportunity to practice in a simulated test environment where I do not go back to a previous answer while figuring out a comfortable pace that works for me.
 
 ***III. Answer Every Question***
