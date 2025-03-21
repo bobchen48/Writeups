@@ -51,7 +51,7 @@ my confidence because it gave me an opportunity to practice in a simulated test 
 
 ***III. Answer Every Question***
 
-What makes Cisco Exams challenge is that once you answer a question, you are not allowed to go back. So it is important to try answering every question to give yourself a non-zero chance of getting a question right in the event where you are presented
+What makes Cisco Exams challenging is that once you answer a question, you are not allowed to go back. So it is important to try answering every question to give yourself a non-zero chance of getting a question right in the event where you are presented
 with a question you do not know the answer to.
 
 ***IV.	Learn how to Subnet!***
