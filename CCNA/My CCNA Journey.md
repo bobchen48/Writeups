@@ -41,7 +41,7 @@ in study mode. Repeating this for Exam B, C, and D, I slowly increased my confid
 
 ***I. Lab Lab Lab!***
 
-Like many folks online, you HAVE TO LAB if you want to pass this exam. And it is not just because labbing reinforces theory, but also it helps you with any CLI-based questions. Knowing what those commands do helps you quickly find correct set of 
+Like many folks online say, you HAVE TO LAB if you want to pass this exam. And it is not just because labbing reinforces theory, but also it helps you with any CLI-based questions. Knowing what those commands do helps you quickly find correct set of 
 commands you need. Once you lab to the point it is borderline boring, that’s when you know you have it down comfortably because you can recall the correct commands and type it quickly.
 
 ***II.	ExSim Boson and Pacing***
