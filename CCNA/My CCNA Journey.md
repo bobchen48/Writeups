@@ -1,6 +1,5 @@
 # My CCNA Journey #
-On March 19, I successfully obtained my Cisco CCNA certification after a 7-month long journey. This certification held a lot of value to me as a person not only because of its difficulty for a foundational exam, but the tenacity, 
-determination, and tenacity it took to obtain this certification.
+On March 19, I successfully obtained my Cisco CCNA certification after a 7-month long journey. This certification held a lot of value to me as a person not only because of its difficulty for a foundational exam, but the tenacity and will it took to obtain this certification.
 
 ## Resources Used ##
 1.	**Jeremy IT Lab (Free on YouTube)**: This is by far the best resource out there (and it’s FREE!). Jeremy goes in-depth on every single topic that he covers almost every nuance you could possibly expect on the CCNA. The labs
