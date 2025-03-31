@@ -31,10 +31,7 @@ comfortably navigate the command line.
 
 ***III. Two Weeks Before Exam***
 
-Still not feeling confident, I was browsing through r/ccna  subreddit of what other CCNA test takers did when preparing for the exam. It was here I saw how much people praised Boson ExSim as part of their preparation and how they would have likely not 
-passed if it was not for ExSim. Learning this, I decided to buy ExSim and give it a try. In my first ExSim exam (Exam A), I got 50 percent, which blew my confidence a little. But then I remembered reading on subreddit that many people also had similar 
-experience where they scored low score on Boson prior to passing the exam. The important thing to remember was that Boson was a great indicator for weak topic areas. So, I reviewed all my wrong answers and took note on it before going back to take it 
-in study mode. Repeating this for Exam B, C, and D, I slowly increased my confidence for both simulation and theory questions. 
+Still not feeling confident, I was browsing through r/ccna  subreddit of what other CCNA test takers did when preparing for the exam. I noticed how much people praised Boson ExSim as part of their preparation and how they would have likely not passed if it was not for ExSim. Learning this, I decided to buy ExSim and give it a try. In my first ExSim exam (Exam A), I got 50 percent, which blew my confidence a little. But then I remembered reading on subreddit that many people also had similar experience where they scored low score on Boson prior to passing the exam. The important thing to remember was that Boson was a great indicator for weak topic areas. So, I reviewed all my wrong answers and took note on it before going back to take it in study mode. Repeating this for Exam B, C, and D, I slowly increased my confidence for both simulation and theory questions. 
 
 ## Advice to Others ## 
 
