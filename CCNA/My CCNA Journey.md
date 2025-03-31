@@ -5,8 +5,7 @@ On March 19, I successfully obtained my Cisco CCNA certification after a 7-month
 1.	**Jeremy IT Lab (Free on YouTube)**: This is by far the best resource out there (and it’s FREE!). Jeremy goes in-depth on every single topic that he covers almost every nuance you could possibly expect on the CCNA. The labs
    he has that complement each lesson help reinforce what you learned in the lecture. Take advantage of it!
   	
-2.	**CCNA Certification Study Guide Volume 1 and 2: Exam 200-301 v1.1 (Sybex Study Guide) By Todd Lammie and Donald Robb**: These two Sybex Books come with a complimentary online access to a test bank for one year upon registration
-   on Sybex Wiley Online. This was a good supplementary material that gave me test questions online to practice (500+ questions combined from both books). These helped me reinforce learned concepts as I was going through Jeremy’s IT Lab.
+2.	**CCNA Certification Study Guide Volume 1 and 2: Exam 200-301 v1.1 (Sybex Study Guide) By Todd Lammie and Donald Robb**: These two Sybex Books come with a complimentary online access to a test bank for one year upon registration on Sybex Wiley Online. This was a good supplementary material that gave me online multiple questions to practice (500+ questions combined from both books) learned concepts as I was going through Jeremy’s IT Lab.
   	 
 3.	**Boson ExSim and NetSim**: I originally wasn’t going to use either of these when I first started CCNA. However, after reading so many reddit posts from people on CCNA subreddit who believed they would not have passed it without Boson,
   I felt compelled (especially once closer to exam date) to purchase these to ensure I maximize my chances of passing. Looking back, I do believe ExSim was necessary resource while NetSim was cherry on top (good to have but not mandatory).
