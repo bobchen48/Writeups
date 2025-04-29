@@ -4,7 +4,7 @@ After coming off of my [CCNA](https://github.com/bobchen48/Writeups/blob/main/CC
 ## Resources Used ##
 1. **Udemy Course Juniper JNCIA-Junos JN0-105 by S2 Academy**: The main video course used for this certification exam. This video course broke the objectives mentioned on JNCIA - Junos Blueprint objectives into digestable video courses that can be consumed easily. I found this video course easy to follow.
   
-2. **Juniper vLab**: a Virtual lab environment that provides a virtualized environment to test commands in configuration mode. This was basically a close equivalent to Cisco Packet Tracer
+2. **Juniper vLab**: A virtual lab environment that provides a virtualized environment to test commands in configuration mode. This was basically a close equivalent to Cisco Packet Tracer
    
 3. **JNCIA-Junos JN0-105 Practice Exams by S2 Academy**: Complemtnary to S2 Academy's JNCIA Junos JN0-105. This provided me with 300 practice questions that I can practice to test my understand of Juniper CLI, OS, and Networking knowledge from a Juniper perspective. However, because of time constraint, I was only able to get through a third of the practice questions prior to taking my exam.
    
