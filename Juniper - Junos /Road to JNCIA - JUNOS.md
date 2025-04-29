@@ -6,3 +6,5 @@ After coming off of my [CCNA](https://github.com/bobchen48/Writeups/blob/main/CC
 2. **Juniper vLab**: 
 3. **JNCIA-Junos JN0-105 Practice Exams by S2 Academy**: Complemtnary to S2 Academy's JNCIA Junos JN0-105. This provided me with 300 practice questions that I can practice to test my understand of Juniper CLI, OS, and Networking knowledge from a Juniper perspective. However, because of time constraint, I was only able to get through a third of the practice questions prior to taking my exam.
 4. **Juniper JNCIA-Junos (JN0-105) - Practice Exam by Nerd Exam**: Similiar to JNCIA-Junos JN0-105 Practice Exams by S2 Academy by S2 academy, this practice exam course module provided an additional 100 practice questions to help me prepare for the Junos exam. But like the other practice exam course, I was not able to complete it all (only finished half) prior to exam date.
+
+## Initial Preparation and Impressions ##
