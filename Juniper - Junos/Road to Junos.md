@@ -12,7 +12,7 @@ After coming off of my [CCNA](https://github.com/bobchen48/Writeups/blob/main/CC
 
 ## Initial Preparation and Impressions (Comparing Cisco and Juniper) ##
 When I first got into Juniper (and as I go through the lessons), I was not only taking notes of the stuff I was learning, but also taking mental notes of the differences I saw beteween Juniper and Cisco. Some notable differences I observed were as follows:
-1. **Juniper SDN-lite architecture**: When I was first introduced to Juniper architecture in my video course, I immediately recalled the SDN architecture in Cisco. The way packets are forwarded between the control plane (Routing Engine) and Forwarding Plane (Forwarding Engine) was very similiar to how SDN Networking works at a foundational level (without the application plane). For me, this made it really easy to comprehent Juniper's architecture because the concepts of how packets flow in Juniper architecture was essentially the same as in an SDN architecture.
+1. **Juniper SDN-lite architecture**: When I was first introduced to Juniper architecture in my video course, I immediately recalled the SDN architecture in Cisco. The way packets are forwarded between the control plane (Routing Engine) and Forwarding Plane (Forwarding Engine) was very similiar to how SDN Networking works at a foundational level (without the application plane). For me, this made it really easy to comprehend Juniper's architecture because the concepts of how packets flow in Juniper architecture was essentially the same as in an SDN architecture.
 <div align="center">
   <image src="https://github.com/bobchen48/Writeups/blob/main/Juniper%20-%20Junos/SDN%20vs%20Juniper%20Architecture.JPG">
 </div>
