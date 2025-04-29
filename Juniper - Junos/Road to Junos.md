@@ -24,7 +24,7 @@ When I first got into Juniper (and as I go through the lessons), I was not only 
    - Running Config & Startup Config (Cisco) == Active Configuration & Candidate Configuration (Juniper)
    - Administrative Distance (Cisco) == Route Preference (Juniper)
 
-  These were some important distinction I had to keep in mind when studying because my mind would be naturally be oriented towards Cisco terminologies, which then led to me having to remind myself to apply a Juniper mindset, especially as I got closer to the exam date 
+  These were some important distinction I had to keep in mind when studying because my mind would naturally be oriented towards Cisco terminologies, which then led to me having to remind myself to apply a Juniper mindset, especially as I got closer to the exam date 
   
 4. **Cisco Administrative Distance (aka Juniper Route Preference) Differences**
 After studying for CCNA for so long and having my brain hard-wired into associating OSPF with 110, RIP with 120, IS-IS with 125 for their default administrative distance, I was having difficulties adopting into Juniper's differences in their Route preference value as I saw OSPF with 150, RIP with 100, IS-IS (which has 2 levels described by Juniper) with 160 for level 1 external and 165 for level 2 external. While you may not necessarily need to memorize each routing protocol's default route preference for JNCIA - Junos (don't quote me on that), I am almost certain that as I move into JNCIS - SP and JNCIS - Enterprise I will need to memorize them.
