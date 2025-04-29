@@ -21,5 +21,9 @@ When I first got into Juniper (and as I go through the lessons), I was not only 
 After studying for CCNA for so long and having my brain hard-wired into associating OSPF with 110, RIP with 120, IS-IS with 125 for their default administrative distance, I was having difficulties adopting into Juniper's differences in their Route preference value as I saw OSPF with 150, RIP with 100, IS-IS (which has 2 levels described by Juniper) with 160 for level 1 external and 165 for level 2 external. While you may not necessarily need to memorize each routing protocol's default route preference for JNCIA - Junos (don't quote me on that), I am almost certain that as I move into JNCIS - SP and JNCIS - Enterprise I will need to memorize them.
 
 
-## Crunching for Time and Exam Date##
+## Crunching for Time and Exam Date
 While I was comfortably cracking through the training videos, I found it difficult to manage my time as I got closer to the exam among other priorities (I was also preparing for finals around this time) that I found myself rushing through some of the videos closer towards my exam date. Up to 2 days before the exam, I was simply rushing through the final set of videos and banking on my Cisco CCNA knowledge to carry me through a big portion of the exam. 
+
+## Advice to Others ##
+1. **Get comfortable with Juniper CLI** : Regardless of whether you have CCNA or not, you should be able to comfortably navigate through CLI of a Junos device prior to taking this exam as this exam is mostly split towards 60 percent understanding Junos CLI and 40 percent networking fundamentals. 
+2. **Subnetting**: Like my CCNA test-taking recommendation, Subnetting knowledge is a must. Knowing subnetting helps you understand how routes are chosen when there are multiple routes to choose from to a destination IP (most specific aka Longest matching route) wins
