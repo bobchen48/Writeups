@@ -7,11 +7,12 @@ After coming off of my [CCNA](https://github.com/bobchen48/Writeups/blob/main/CC
 3. **JNCIA-Junos JN0-105 Practice Exams by S2 Academy**: Complemtnary to S2 Academy's JNCIA Junos JN0-105. This provided me with 300 practice questions that I can practice to test my understand of Juniper CLI, OS, and Networking knowledge from a Juniper perspective. However, because of time constraint, I was only able to get through a third of the practice questions prior to taking my exam.
 4. **Juniper JNCIA-Junos (JN0-105) - Practice Exam by Nerd Exam**: Similiar to JNCIA-Junos JN0-105 Practice Exams by S2 Academy by S2 academy, this practice exam course module provided an additional 100 practice questions to help me prepare for the Junos exam. But like the other practice exam course, I was not able to complete it all (only finished half) prior to exam date.
 
-## Initial Preparation and Impressions ##
+## Initial Preparation and Impressions (Comparing Cisco and Juniper) ##
 1. ** Cisco vs Juniper CLI **: When I first started navigating through the configuration of a Juniper SRX, I found it to be more object-oriented and "flat" than Cisco's more layered approach. While in the vLab executing commands (as I go through lessons), I felt that Juniper was very straight forward configuration wise in that once I was in the configuration mode, I can either execute a full command to accomplish a task from edit, or I can go into edit-(insert specific object group), thus making it more straight forward and logically sectioned out.
-2. **Terminology Differences** While Network fundamentals don't change at a foundational level, Juniper and Cisco's history and design methodology causes them to adopt different terminiologies that mean the same thing. For example:
+2. **Terminology Differences** While Network fundamentals don't change across vendors, Juniper and Cisco's history and design methodology causes them to adopt different terminiologies that mean the same thing. For example:
    - VRF (Cisco) == Routing Instance (Juniper)
    - Running Config & Startup Config (Cisco) == Active Configuration & Candidate Configuration (Juniper)
    - Administrative Distance (Cisco) == Route Preference (Juniper)
-   - 
-3. 
+
+  These were some important distinction I had to keep in mind when studying because my mind would be naturally be oriented towards Cisco terminologies, which then led to me having to remind myself to apply a Juniper mindset, especially as I got closer to the exam date 
+3. **Architecture Differences**
