@@ -19,7 +19,7 @@ When I first got into Juniper (and as I go through the lessons), I was not only 
 
 2. **Cisco vs Juniper CLI**: I found Juniper CLI to be more object-oriented and "flat" than Cisco's more layered approach. While in the vLab executing commands (as I go through lessons), I felt that Juniper was very straight forward configuration wise in that once I was in the configuration mode, I can either execute a full command to accomplish a task from edit, or I can go into edit-(insert specific object group), thus making it more straight forward and logically sectioned out.
    
-3. **Terminology Differences** While Network fundamentals don't change across vendors, Juniper and Cisco's history and design methodology causes them to adopt different terminiologies that mean the same thing. For example:
+3. **Terminology Differences** While Network fundamentals don't change across vendors, Juniper and Cisco's history and design methodology causes them to adopt different terminologies that mean the same thing. For example:
    - VRF (Cisco) == Routing Instance (Juniper)
    - Running Config & Startup Config (Cisco) == Active Configuration & Candidate Configuration (Juniper)
    - Administrative Distance (Cisco) == Route Preference (Juniper)
@@ -36,4 +36,4 @@ While I was comfortably cracking through the training videos, I found it difficu
 ## Advice to Others ##
 1. **Get comfortable with Juniper CLI** : Regardless of whether you have CCNA or not, you should be able to comfortably navigate through CLI of a Junos device prior to taking this exam as this exam is mostly split towards 60 percent understanding Junos CLI and 40 percent networking fundamentals.
    
-2. **Subnetting**: Like my CCNA test-taking recommendation, Subnetting knowledge is a must. Knowing subnetting helps you understand how routes are chosen when there are multiple routes to choose from to a destination IP (most specific aka Longest matching route) wins
+2. **Subnetting**: Like my CCNA test-taking recommendation, Subnetting knowledge is a must. Knowing subnetting helps you understand how routes are chosen when there are multiple routes to choose from to a destination IP (most specific aka Longest matching route) win
