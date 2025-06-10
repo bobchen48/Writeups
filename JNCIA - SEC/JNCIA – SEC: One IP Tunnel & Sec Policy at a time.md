@@ -24,12 +24,9 @@ As I progress throughout this course, the concept of zone and IPSec Tunnel began
 Likewise, I recall first seeing 30+ lines of VPN tunnel and had no idea what was going on. What was st0 (it stands for security tunnel 0, a logical entity used to route traffic to a vpn tunnel). Once I started understanding the idea behind the command, they began to clarify in my brain and the rest was history.
 
 <div align="center">
-  <image src="[https://github.com/bchen96/Writeups/blob/main/Allied%20Solutions%20Internship/Big%20Questions.png](https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Route%20Based%20IPSec%20VPN%20-%20Part%201.jpg]">
+  <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Route%20Based%20IPSec%20VPN%20-%20Part%201.jpg">
+  <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Route%20Based%20IPSec%20VPN%20-%20Part%202.jpg">
 </div>
-<div align="center">
-  <image src="[https://github.com/bchen96/Writeups/blob/main/Allied%20Solutions%20Internship/Big%20Questions.png](https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Route%20Based%20IPSec%20VPN%20-%20Part%201.jpg]">
-</div>
-
 ## Advice to Others##
 1.	**Understand Source NAT, Destination NAT, and Static NAT**: These three NAT are three of the most important components of security policies because they influence how packets are handled as it enters and exits SRX devices. Prior to this exam, I watched a Palo Alto Firewall YouTube regarding [NAT/Security Policy configuration] (https://www.youtube.com/watch?v=Ahrao6kBg8w) that clarified the consideration of NAT when configuring security policies
 2.	**Getting into shape on Exam Date**: I did not really think hard about this in all my prior exam, but I started to notice that being in a really good shape both PHYSICALLY and MENTALLY can be a huge confidence booster by itself. Something I started doing more lately on exam date before an IT certification exam was eating chicken noodle soup ( breakfast or lunch). Chicken noodle soup that not only feels good when swallowed because of the rich broth, but it also does not feel “hard” on the body when consumed. This is important because on exam date, it’s important to avoid eating food that can negatively impact your digestive system. You want to ensure your body is in its best shape on exam date to increase your likelihood of passing the exam. 
