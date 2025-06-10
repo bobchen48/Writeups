@@ -12,7 +12,7 @@ Determined to understand both down to a science, I went into this certification 
   
 2. **Juniper vLab – Security**: A virtual lab environment that provides a virtualized environment to test commands in configuration mode. For this exam, I used all the topology listed under Security as they provided setup relevant to the exam.
    
-3. **JNCIA-Junos JN0-105 Practice Exams by S2 Academy**: Like JNCIA Junos Practice exam provided by S2 Academy I used when practicing for JNCIA Junos, I used this test bank as a complementary resource to S2 Academy's JNCIA Junos JN0-231. This provided me with 300+ practice questions that I can practice to test my understanding of exam content.
+3. **JNCIA-Junos JN0-231 Practice Exams by S2 Academy**: Like JNCIA Junos Practice exam provided by S2 Academy I used when practicing for JNCIA Junos, I used this test bank as a complementary resource to S2 Academy's JNCIA Junos JN0-231. This provided me with 300+ practice questions that I can practice to test my understanding of exam content.
    
 4. **Juniper Open Learning Portal – JNCIA – SEC**: I watched some of the lecture videos in this course (mostly when I first started studying for this exam, but similar to my JNCIA – Junos experience, I found this online portal course a bit redundant given I was already engulfed into the Udemy course. However, I made sure to take the practice exam at least to maximize my understanding of what I would be expecting on the actual exam.
 
