@@ -15,8 +15,12 @@ Determined to understand both down to a science, I went into this certification 
    
 4. **Juniper Open Learning Portal – JNCIA – SEC**: I watched some of the lecture videos in this course (mostly when I first started studying for this exam, but similar to my JNCIA – Junos experience, I found this online portal course a bit redundant given I was already engulfed into the Udemy course. However, I made sure to take the practice exam at least to maximize my understanding of what I would be expecting on the actual exam.
 
+<div align="center">
+  <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/vLab%20-%20Security%20Topologies.JPG">
+</div>
+    
 ## My Preparation - Some Thoughts ##
-When I first started preparing for this exam, I had a basic, but scuffed understanding of address objects (logical objects that are used to represent an IP address). I witness a series of “set security policies from-zone trust to-zone untrust…” and I was left clueless, no idea what a “zone” was. In my head, I thought zone was a logical territory, but the question regarding what was inside a zone, remained. 
+When I first started preparing for this exam, I had a basic, but scuffed understanding of address objects (logical objects that are used to represent an IP address). I remember being presented with a series of “set security policies from-zone trust to-zone untrust…” commands and I was left confused, no idea what a “security-zone” was. In my head, I thought zone was a logical territory, but I needed to know more.
 
 
 As I progress throughout this course, the concept of zone and IPSec Tunnel began to make sense as I started to understand why they exist and what purpose they serve in SRX devices. To me, zones was like territoritory (virtual) that contained a set of IP Adresses. Regardless though, once the idea of zones and their role in security policies cleared in my head, I began to understand why I was writing security policies the way I was writing it. It was a way to route packets the way I wanted them to be routed, based on a set of requirements.
@@ -27,6 +31,12 @@ Likewise, I recall first seeing 30+ lines of VPN tunnel and had no idea what was
   <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Route%20Based%20IPSec%20VPN%20-%20Part%201.jpg">
   <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Route%20Based%20IPSec%20VPN%20-%20Part%202.jpg">
 </div>
-## Advice to Others##
+    
+## Advice to Others ##
 1.	**Understand Source NAT, Destination NAT, and Static NAT**: These three NAT are three of the most important components of security policies because they influence how packets are handled as it enters and exits SRX devices. Prior to this exam, I watched a Palo Alto Firewall YouTube regarding [NAT/Security Policy configuration] (https://www.youtube.com/watch?v=Ahrao6kBg8w) that clarified the consideration of NAT when configuring security policies
+
+<div align="center">
+  <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Security%20Policies.jpg">
+</div>
+
 2.	**Getting into shape on Exam Date**: I did not really think hard about this in all my prior exam, but I started to notice that being in a really good shape both PHYSICALLY and MENTALLY can be a huge confidence booster by itself. Something I started doing more lately on exam date before an IT certification exam was eating chicken noodle soup ( breakfast or lunch). Chicken noodle soup that not only feels good when swallowed because of the rich broth, but it also does not feel “hard” on the body when consumed. This is important because on exam date, it’s important to avoid eating food that can negatively impact your digestive system. You want to ensure your body is in its best shape on exam date to increase your likelihood of passing the exam. 
