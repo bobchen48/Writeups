@@ -1,4 +1,4 @@
-# JNCIA - SRX Edition #
+# JNCIA - SEC... SRX Edition #
 Continuing build onto Juniper Brigade after [JNCIA - Junos]( https://github.com/bobchen48/Writeups/blob/main/Juniper%20-%20Junos/Road%20to%20Junos.md?plain=1), I went into this exam hoping to achieve 2 objectives: Understand the inner workings of security policies, and learn how to configure VPN tunnels. 
 
 ## Why Security Policy and IPSec Tunnel ##
