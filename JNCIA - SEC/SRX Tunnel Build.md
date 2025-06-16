@@ -36,10 +36,39 @@ I remember when I first encountered a VPN configuration. It was 30+ lines of con
      - External Interface
 
 ## Phase 2 - IPSec ##
+>[!NOTE]
+>After a secure channel has been established between the two peers in phase 1, phase 2 focuses on Security Associations (SA) negotiation for encrypting and authenticating the actual data traffic exchanged between the two peers
 
+7. **Configure Phase 2 (IPSec Proposal)**
+     - Security (ESP/AH)
+     - Authentication Algorithm
+     - Encryption Algorithm (if using ESP)
+     - Lifetime
+       
+8. **Configure IPSec Policy**
+     - Perfect Forward Secrecy (DH Group)
+     - IPsec Proposal to be used
+
+9. **Configure IPSec VPN**
+     - Gateway
+     - IPSec Policy to use
+     - Bind to st# interface configured
+       
 ## Security Policy ##
+>[!NOTE]
+>Now that Phase 1 and Phase 2 have been configured, we need the necessary security policy that permits traffic between Trust zone to the “VPN zone” and from “VPN zone” to the Trust Zone to permit traffic through the tunnel.
 
+10. **Configure security policies**
+     - Match Criteria 1
+       - source-address Host1-Net
+       - destination-address: Host2-Net
+       - application any
+     - Match Criteria 2
+       - source-address Host2-Net
+       - destination-address: Host1-Net
+       - application any
 ## External Reference ##
+[Route-Based IPSec VPN - Juniper Documentation](https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-route-based-ipsec-vpns.html)
 
 
 
