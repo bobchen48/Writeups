@@ -5,8 +5,35 @@ One of the crucial skill learned in JNCIA - SEC was the anatomy of SRX VPN Tunne
 I remember when I first encountered a VPN configuration. It was 30+ lines of configuration that left my minds blown. Thanks to JNCIA - SEC however, I learned that those 30 lines of configuration can be broken down into a series of steps that work together to build the VPN. But instead of just throwing a ton of commands here, I will explain the conceptual idea behind a VPN Build, specifically _Route-Based VPN_. The steps to build a SRX Route-based VPN are as follows:
 
 ## Creating a Secure Tunnel, Security Zones, and Routes ##
+>[!NOTE]
+>For the two peer to establish a secure tunnel, they will need the necessary interface, security zones and routes configured that will allow them to exchange information
+
+1. **Configure secure tunnel interface**: A secure tunnel interface (st#) is an internal interface that is used by route-based VPNs to route cleartext traffic to an IPsec VPN tunnel.
+  
+2. **Configure security zone**: We need to identify/define zone that the secure tunnel will reside in.
+
+3. **Configure Route to the secure tunnel**: Route VPN Tunnel via st (st#)
 
 ## Phase 1 (IKE - Internet Key Exchange) ##
+>[!NOTE]
+>IKE Phase 1 is the first Phase of IKE tunnel negotiation process. This phase is used to establish a secure, authenticated channel between the 2 IKE peers. This security channel, also known as IKE Security Association (SA), is then used to securely exchange information and negotiate the IPSec Security Associations (SAs) in Phase 2
+
+4. **Configure Phase 1 (IKE Proposal):**
+     - Authentication method
+     - Authentication Algorithm (i.e MD5, SHA1, SHA2 etc)
+     - Encryption Algorithm (AES is typically the standard encryption algorithm used)
+     - Diffie Hellman Group
+     - Lifetime
+       
+5. **Configure IKE Policy:**
+     - Mode (Main or Aggressive)
+     - Pre-shared Key
+     - Name of IKE Proposal (Step 4) to use
+       
+6. **Configure IKE Gateway**
+     - What IKE Policy to use
+     - Remote Gateway Address
+     - External Interface
 
 ## Phase 2 - IPSec ##
 
