@@ -34,7 +34,7 @@ Likewise, I recall first seeing 30+ lines of VPN tunnel and had no idea what was
 </div>
     
 ## Advice to Others ##
-1.	**Understand Source NAT, Destination NAT, and Static NAT**: These three NAT are three of the most important components of security policies because they influence how packets are handled as it enters and exits SRX devices. Prior to this exam, I watched a Palo Alto Firewall YouTube regarding [NAT/Security Policy configuration](https://www.youtube.com/watch?v=Ahrao6kBg8w) that clarified the consideration of NAT when configuring security policies
+1.	**Understand Source NAT, Destination NAT, and Static NAT**: These three NAT are three of the most important components of security policies because they influence how packets are handled as it enters and exits SRX devices. Prior to this exam, I watched a Palo Alto Firewall YouTube regarding [NAT/Security Policy configuration](https://www.youtube.com/watch?v=Ahrao6kBg8w) that clarified the consideration of NAT when configuring security policies.
 
 <div align="center">
   <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/Security%20Policies.jpg">
