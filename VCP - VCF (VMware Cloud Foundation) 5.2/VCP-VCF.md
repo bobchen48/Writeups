@@ -24,4 +24,7 @@ On Exam date, I went in, feeling decent about my chances and started the exam. I
 ## What went wrong (My POV) && Moving forward ##
 I recall reading another successful test taker's writeup where he mentions that the exam tests your ability to know "how to configure VCF" (understanding requirements, procedure, troubleshooting) instead of the "Why VCF". Because I was more focused on high-level ideas and the Whys of VCF, I feel I either incorrectly prepared for the exam or I did not actually prepare as much as I should have. Maybe if I took some extra courses on troubleshooting VCF, I may have had a better chance. Howver, everything is retroactive in perspective - easy to know what I could have done if I could have gone back, but I won't know on-the-spot. 
 
+While I am disappointed in my exam result, I am still happy to have come out learning more about VMware VCF than I would hve otherwise (if I did not go through this exam). Although I do not foresee an immediate plan to pursue this exam as I wanted to not dwell on my poor testing experience for this exam, I can see myself returning to Broadcom exam in the future (specifically Network Virtualization) down the road to continue my journey of becoming an IT Networking professional.
+
+"Failure is just a temporary setback" I will see you all in the next exam.
 
