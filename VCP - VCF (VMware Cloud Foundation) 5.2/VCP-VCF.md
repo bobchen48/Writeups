@@ -16,4 +16,12 @@ Initially, I was blown away and confused by all the moving components that make 
 ## Week 2 to 3 - Self-Paced (On-Demand) course ##
 Despite my confidence boost from my online course, I still wanted to take advantage of the self-paced course offering as means to review the content in hopes of solidifying my knowledge prior to the exam. While I initially took notes, the time constraint leading up to the exam caused me to slip off on my notes and I started to focus on the big idea instead of the detail (I will talk more regarding this on in my reflection). Nevertheless, between my practice quest
 
-## Week 4 leading up to Exam ##
+## Week 4 and 5 leading up to Exam ##
+I spent the final 2 weeks leading up the to exam, I was focused on wrapping up my self-paced course and going through as many review questions as I can find (good and bad) from online resources to test my applied knowledgede pertaining to VCF.
+
+On Exam date, I went in, feeling decent about my chances and started the exam. It was at this point that my expectation for the exam was completely shattered. Almost 75 percent of my exam (I mean this!) were multi-answer questions that where two to four answers were correct and I had to be able to select them all. While I thought it was generous Broadcom gave 135 minutes to take a 60-question exam, I did not anticipate how many of these multi-answer questions I would actually encoutner. I recall that for many of the questions that had pick-3 as correct answer, I would be left in a situation where I was confident with 2 of the 3 answers I selected, but couldn't decide what that third answer was. In my review, I went through 40 out of the 60 questions just as a ressurance in hopes of correcting any doubts I had. Alas, after I submitted my answer, I was met with a "Fail". 
+
+## What went wrong (My POV) && Moving forward ##
+I recall reading another successful test taker's writeup where he mentions that the exam tests your ability to know "how to configure VCF" (understanding requirements, procedure, troubleshooting) instead of the "Why VCF". Because I was more focused on high-level ideas and the Whys of VCF, I feel I either incorrectly prepared for the exam or I did not actually prepare as much as I should have. Maybe if I took some extra courses on troubleshooting VCF, I may have had a better chance. Howver, everything is retroactive in perspective - easy to know what I could have done if I could have gone back, but I won't know on-the-spot. 
+
+
