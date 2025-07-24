@@ -1,5 +1,5 @@
 ## Gandalf at Lakera ##
-During my summer internship at Allied Solutions, I had the oppertunity to speak with the CISO of my company who demonstrated to me a password guessing game in ChatGPT style known as Gandalf Lakera that highlights the up and coming vulnerabilities of ChatGPT: **Prompt injection attack**.
+During my summer internship at Allied Solutions, I had the oppertunity to speak with the CISO of my company who demonstrated to me a password guessing game in ChatGPT style known as [Gandalf Lakera](https://gandalf.lakera.ai/baseline) that highlights the up and coming vulnerabilities of ChatGPT: **Prompt injection attack**.
 
 Similar other common injection-based attack, prompt injection attack seeks to take advantage of vulnerabilities found in large language models (LLMs) applications (Example: ChatGPT) where attackers use carefully crafted prompts that makes the AI ignore previous prompt attempts instructions or perform unintended actions. By tricking AI into exposing data, attackers can achieve malicious objectives including, but not limited to: data breaches, unauthorized access, or execution of malicious payload.
 
