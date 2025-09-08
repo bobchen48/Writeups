@@ -1,4 +1,4 @@
-# JNCIA - ENT - Lesson on Resilience and Bouncing back from Failure #
+# JNCIS - ENT - Lesson on Resilience and Bouncing back from Failure #
 
 On 9-8-2025, I was able to accomplish the JNCIS-ENT (Juniper Enterprise Routing and Switching, Specialist) Exam. Accomplishing this one to meant more than just anoter certification because this one taught me the importance of being resilient and bouncing back from failure.
 
@@ -7,9 +7,22 @@ On 9-8-2025, I was able to accomplish the JNCIS-ENT (Juniper Enterprise Routing 
 2. **Juniper Open Learning JNCIS-ENT**: I initially paired this as a supplemental to my Udemy course, but looking back, this course was the reason that likely helped me passed the exam as it taught many of the content that were missed entirely or covered very briefly in the Udemy course
 3. **Udemy Course: Juniper JNCIS-ENT (JN0-351) - Practice Exam by Nerd Exams**: Like my previous Juniper Exams (Junos and JNCIA - SEC), I used Nerd Exams JNCIS-ENT Exam prep). This combined with the practice questions on Juniper Open Learning was enough practice questions to prepare me.
 
-## Preamble ##
-Back around June to July 2025 after passing my [JNCIA - SEC](https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/JNCIA%20-%20SEC%3A%20My%20Certification%20Journey.md), I felt immense confidence while preparing for VMware Cloud Foundation - Administrator (5.2) Exam that I was going to crush it in July. However, I was knocked down to reality as my [exam score showed a FAIL](https://github.com/bobchen48/Writeups/blob/main/VCP%20-%20VCF%20(VMware%20Cloud%20Foundation)%205.2/VCP-VCF.md)
+## Preamble - Reflection on Failed VCF ##
+Back around June to July 2025 after passing my [JNCIA - SEC](https://github.com/bobchen48/Writeups/blob/main/JNCIA%20-%20SEC/JNCIA%20-%20SEC%3A%20My%20Certification%20Journey.md), I felt immense confidence while preparing for VMware Cloud Foundation - Administrator (5.2) Exam that I was going to crush it in July. However, I was knocked down to reality as my [exam score showed a FAIL](https://github.com/bobchen48/Writeups/blob/main/VCP%20-%20VCF%20(VMware%20Cloud%20Foundation)%205.2/VCP-VCF.md). I remember leaving from the exam to go to the store, then walking home that afternoon, feeling down realizing that I was NOT invincible to failing. As bad as it was, I knew in the back of my mind that the only way to grow was to embrace the failures that came along the way (while still acknowledging that it sucks to fail)
 
+## Initial Preparation ##
+Many of the r/juniper subreddit I was reading through when casually scoping out the difficulty of the exam compared exam difficulty of CCNA. Given I passed CCNA, I was not too afraid to tackle this exam, though the self-doubt after failing my VCF haunted me as I was afraid I could be at the risk of failing this. Given this, I did not want to "assume" I knew the content. As such, I went exploring for courses.
+
+When I was browsing Udemy for video courses for JNCIS-ENT, the one (and only video course) that came up was Ben Jacobson's JNCIS-ENT course. Naturally, I bought it without a second guess and I began consuming the content.
+
+## Midpoint Realizations ##
+After going through Ben Jacobson's Udemy course, I had a hunch that there were a lot of exam objective content missing in his course (almost to the point it felt like "rushed"). While I could not explain it, my hunch told me I needed a secondary resource that ensures I had all basis covered prior to taking the exam. As a result, I obtained the JNCIS-ENT course on Juniper's Open Learning Portal (Free by the way) and went through it from start to finish. I was very happy about my decision to do so because there were so many gaps that was covered in the Open Learning Portal course that were either missing or skimmed over in Ben Jacobson's course.
+
+After consuming both course, I practice using practice questions I bought from Udemy (by Nerd Exams) and 40-question from Juniper Open Portal (It got intense in the final 2 days and night before leading up)
+
+## Exam and Post-Exam ##
+
+## Final Thoughts - Cisco vs Juniper ## 
 
 
 
