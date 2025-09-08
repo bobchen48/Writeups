@@ -28,7 +28,7 @@ Come morning, I eat some Chicken Noodle soup and go to my test center. I remembe
 At the end of the exam after reviewing my answer choices, I took a deep breath, nervously pressing "End Review" as I was ready to accept my fate (to fail). To my relief, I was met with a pass. I left the test center feeling accomplished and bounced back.
 
 ## Final Thoughts - Cisco vs Juniper STP Port cost calculation##
-One interesting topic I learned throughout the lifecycle of preparing for this exam was analyzing the difference between Cisco and Juniper's methodology in _Spanning Tree Port cost calculation_. I remember sharing with a coworker (who also passed CCNA) how "stupid" Cisco's STP default port cost calculation was compared to Juniper (seen below). Cisco sets "seemingly" arbitary values (2, 4, 19, 100 for their respective ports) whereas Juniper uses multipliers of 10 in cost (starting at 2000) as you multiply the speed of the port by 10; a more systematic approach.
+One interesting topic I learned throughout the lifecycle of preparing for this exam was analyzing the difference between Cisco and Juniper's methodology in _Spanning Tree Port cost calculation_ (image below). I remember sharing with a coworker (who also passed CCNA) how "stupid" Cisco's STP default port cost calculation was compared to Juniper (seen below). Cisco sets "seemingly" arbitary values (2, 4, 19, 100 for their respective ports) whereas Juniper uses multipliers of 10 in cost (starting at 2000) as you multiply the speed of the port by 10; a more systematic approach.
 
 
 <div align="center">
@@ -38,7 +38,7 @@ One interesting topic I learned throughout the lifecycle of preparing for this e
 <div align="center">
   <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIS%20-%20ENT/Juniper%20default%20STP%20port%20cost.jpg">
 </div>
-Cisco vs Juniper STP Port cost calculation
+
 
 
 
