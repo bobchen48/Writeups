@@ -38,6 +38,7 @@ One interesting topic I learned throughout the lifecycle of preparing for this e
 <div align="center">
   <image src="https://github.com/bobchen48/Writeups/blob/main/JNCIS%20-%20ENT/Juniper%20default%20STP%20port%20cost.jpg">
 </div>
+Cisco vs Juniper STP Port cost calculation
 
 
 
