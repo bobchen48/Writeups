@@ -21,6 +21,11 @@ After going through Ben Jacobson's Udemy course, I had a hunch that there were a
 After consuming both course, I practice using practice questions I bought from Udemy (by Nerd Exams) and 40-question from Juniper Open Portal (It got intense in the final 2 days and night before leading up)
 
 ## Exam and Post-Exam ##
+On the night before the exam, I was having difficulty sleeping as I was bewildered by the thought of failing again after my VCF failure. I sat there in bed thinking "am I gonna be able to do this?, What will happen if I fail again? etc".
+
+Come morning, I eat some Chicken Noodle soup and go to my test center. I remember the first 20 questions, I was flying through it with confidence, knocking out 25 questions in only 15 minutes (while flagging only those I have very slight doubt in that I felt needed a second look). Feeling like I was going too fast, especially considering I had 90 minutes to go through 65 questions, I took a short pause and carefully read through my next 20 questions (and the choices presented) ensuring that I understood what was being asked.
+
+At the end of the exam after reviewing my answer choices, I took a deep breath, nervously pressing "End Review" as I was ready to accept my fate (to fail). To my relief, I was met with a pass. I left the test center feeling accomplished and bounced back.
 
 ## Final Thoughts - Cisco vs Juniper ## 
 
