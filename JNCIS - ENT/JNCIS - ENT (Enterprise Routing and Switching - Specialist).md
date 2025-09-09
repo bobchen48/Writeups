@@ -15,7 +15,7 @@ Many of the r/juniper subreddit I was reading through when casually scoping out 
 
 When I was browsing Udemy for video courses for JNCIS-ENT, the one (and only video course) that came up was Ben Jacobson's JNCIS-ENT course. Naturally, I bought it without a second guess and I began consuming the content.
 
-## Midpoint Realizations ##
+## Midway Study - Feelings of Content Emptiness ##
 After going through Ben Jacobson's Udemy course, I had a hunch that there were a lot of exam objective content missing in his course (almost to the point it felt like "rushed"). While I could not explain it, my hunch told me I needed a secondary resource that ensures I had all basis covered prior to taking the exam. As a result, I obtained the JNCIS-ENT course on Juniper's Open Learning Portal (Free by the way) and went through it from start to finish. I was very happy about my decision to do so because there were so many gaps that was covered in the Open Learning Portal course that were either missing or skimmed over in Ben Jacobson's course.
 
 After consuming both course, I practice using practice questions I bought from Udemy (by Nerd Exams) and 40-question from Juniper Open Portal (It got intense in the final 2 days and night before leading up)
