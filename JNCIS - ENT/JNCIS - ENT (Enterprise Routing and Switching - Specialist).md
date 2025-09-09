@@ -16,9 +16,9 @@ Many of the r/juniper subreddit I was reading through when casually scoping out 
 When I was browsing Udemy for video courses for JNCIS-ENT, the one (and only video course) that came up was Ben Jacobson's JNCIS-ENT course. Naturally, I bought it without a second guess and I began consuming the content.
 
 ## Midway Study - Feelings of Content Emptiness ##
-After going through Ben Jacobson's Udemy course, I had a hunch that there were a lot of exam objective content missing in his course (almost to the point it felt like "rushed"). While I could not explain it, my hunch told me I needed a secondary resource that ensures I had all basis covered prior to taking the exam. As a result, I obtained the JNCIS-ENT course on Juniper's Open Learning Portal (Free by the way) and went through it from start to finish. I was very happy about my decision to do so because there were so many gaps that was covered in the Open Learning Portal course that were either missing or skimmed over in Ben Jacobson's course.
+After going through Ben Jacobson's Udemy course, I thought to myself "That's it??? No way that was all I needed to know". My gut was telling me I needed a second pass (from a different source) as I felt so many topics I learned were skimmed at surface level relative to what I believe was on exam objective. As a result, I obtained the JNCIS-ENT course on Juniper's Open Learning Portal (Free by the way) and went through it from start to finish. Feeling validated by my hunch, I felt satisified that the Open Learning Portal course covered gaps that were either missing or skimmed over in Ben Jacobson's course.
 
-After consuming both course, I practice using practice questions I bought from Udemy (by Nerd Exams) and 40-question from Juniper Open Portal (It got intense in the final 2 days and night before leading up)
+After consuming both course, I started practicing using practice questions I bought from Udemy (by Nerd Exams) and 40-question from Juniper Open Portal (It got intense in the final 2 days and night before leading up)
 
 ## Exam and Post-Exam ##
 On the night before the exam, I was having difficulty sleeping as I was bewildered by the thought of failing again after my VCF failure. I sat there in bed thinking "am I gonna be able to do this?, What will happen if I fail again? etc".
