@@ -1,4 +1,4 @@
-# Azure Fundamental (AZ-900) - Connecting theory with past experience #
+# Azure Fundamental (AZ-900) - Connecting new information to past experience #
 
 On 10-6-2025, I obtained the Azure Fundamental (AZ-900) certification. My motivation for this certification originally stemmed from when people keep mentioning Entra ID amongst other Azure terminology. However, after reading some online forum and hearing the value of knowing Azure, I decided to seriously consider pursueing it out of my own curiosity of what makes Azure unique. However, while the exam was one piece, I found my headspace took an interesting turn throughout the lifecycle of this exam.
 
