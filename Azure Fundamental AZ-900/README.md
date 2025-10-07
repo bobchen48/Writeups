@@ -18,6 +18,10 @@ My first two weeks of studying were spent on video training courses on CBT Nugge
 Additionally, anytime I wasn't sure of what an Azure Service was meant to do, I would Google the Azure Service and see if there was an AWS equivalent of it, drawing my previous AWS Certification to help me draw connection between the Azure Service and its AWS direct counterpart. This method was really effective for developing a deeper connection to my learning as I am not taking material at face value, but instead preferring a more inquisitive approach.
 
 ## Final 3 Days leading up to Exam ##
+While I was reading on /AzureCertification subreddit that the exam was easy and required minimal prep work, I still wanted to make sure I was adequately prepared for it by my own accords. On Google Play I casually searched AZ-900 to see if I can find any last-minute pocket prep app. To my surprise, I saw a mobile application for AZ-900 practice questions. I went ahead and download it to go through the questions, ensuring I am able to apply the concepts I learned in my studies. 
+
+On Exam Date, I went in confidently went in and knocked it out. Next Up, Aazure AI-900
+
 
 
 
