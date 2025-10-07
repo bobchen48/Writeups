@@ -9,7 +9,7 @@ On 10-6-2025, I obtained the Azure Fundamental (AZ-900) certification. My motiva
 
 3. AZ-900 Pracitce Test 2025: This was a Mobile app I found on Google Play 3 days before my exam date. I have used these type of pocket prep for previous exams including CCNA and Network+. The sheer convenience of it being a practice test from a mobile app makes it super convenient to take out and practice a couple of questions spradically when I have moments of downtime.
 
-## Preamble - My headspace shortly after starting this exam ##
+## Preamble - My headspace shortly after start studying ##
 It was a week after I passed [JNCIS - ENT](https://github.com/bobchen48/Writeups/tree/main/JNCIS%20-%20ENT). I was sitting at a local Starbucks scouting for training materials to prepare for AZ-900. During this period, I also started getting into Software Engineering Podcasts (specifically those by Ryan Peterman), which shortly led me consuming tons of System Design Interview videos by Hello Interviews. While I am not a Software Engineer myself, I found these software engineering podcast and system design interview very fasinating because I was amazed how people walkthrough designing the underlying system architecture for popular software applications such as Facebook posts, Uber, Ticketmaster etc that have impacted our lives significantly. Although difficult to recall those emotions to put into cohesive words, I knew my mind was experiencing a wide range of emotions that were overwhelming but exciting. It intrigued me to dig on it more as I reflect on my past troubleshooting I've done at my work.
 
 ## Study Session - Week 1 and 2 CBTNuggets ##
