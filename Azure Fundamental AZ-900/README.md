@@ -29,6 +29,7 @@ While I was reading on /AzureCertification subreddit that the exam was easy and 
 
 On Exam Date, I went in confidently went in and knocked it out. Next Up, Aazure AI-900
 
-
+## Afterthought ##
+While I do not have much to say about the exam itself, I will say my mind was more inquisitive when studying for it because I was attempting to connect my learning material to past work tickets that I solved or encountered even if it's not a straight one-to-one mapping. I found that connecting learning material to work experience really helped me be more inquisitive about what I am consuming.
 
 
