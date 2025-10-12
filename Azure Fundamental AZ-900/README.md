@@ -27,7 +27,7 @@ Additionally, anytime I wasn't sure of what an Azure Service was meant to do, I 
 ## Final 3 Days leading up to Exam ##
 While I was reading on /AzureCertification subreddit that the exam was easy and required minimal prep work, I still wanted to make sure I was adequately prepared for it by my own accords. On Google Play I casually searched AZ-900 to see if I can find any last-minute pocket prep app. To my surprise, I saw a mobile application for AZ-900 practice questions. I went ahead and download it to go through the questions, ensuring I am able to apply the concepts I learned in my studies. 
 
-On Exam Date, I went in confidently went in and knocked it out. Next Up, Aazure AI-900
+On Exam Date, I went in confidently went in and knocked it out. Next Up, Azure AI-900
 
 ## Afterthought ##
 While I do not have much to say about the exam itself, I will say my mind was more inquisitive when studying for it because I was attempting to connect my learning material to past work tickets that I solved or encountered even if it's not a straight one-to-one mapping. I found that connecting learning material to work experience really helped me be more inquisitive about what I am consuming.
