@@ -11,8 +11,18 @@ Following the completion of my [Azure AZ-900](https://github.com/bobchen48/Write
 My first exposure to AI predates back to a conference I attended in 2024 at Purdue conference known as [CERIAS (Center for Education and Research for Information Assurance and Security)](https://www.cerias.purdue.edu/site/symposium2024/). There, I heard many keynote speeches, discussions, and presentations presented by researchers, students, and other industry professionals discussing the state of Information Security, especially concerning AI. I concretely remember one AI discussion about the concept of unfair bias present in AI and a neutral discussions about how features were selected when evaluating AI models. Although I was genuinely impressed by the sheer research that were made, I also thought it was way too much repetition to the point it felt to me the whole conference that day was "AI this, AI that, and AI everything"
 
 ## Initial Prepartion - Course Explorations & Selection ##
-
 The first course I chose for this course was the Microsoft Virtual Training Day, which I encountered at Starabucks while I was searching for training materials. I was excited to learn that Micorosft not only offers the free training for their 900 series certifications, but they also discount the 900 certifications for those that attend the training.
+
+I attend training day anticipating an actual live presenter to be there to present the lesson. However, 30 minutes in, I felt something strange: the presenation was too "eloquent" in terms of delivery that it didn't feel like it was an actual live presenter behind the screen. A simple Google search led me to realize that the entire training is pre-recorded, thus confirming my suspicion.
+
+## Second Passthrough - Microsoft Learning (AI-900) ##
+Although I was happy that I received a discount voucher after the training, I was slightly disappointed in the content that I wanted another passthrough from a different course to reinforce my knowledge I learned from the virtual training. Naturally, I delve into Microsoft's Official Learning.
+
+One thing that amazed me about the Microsoft Course was that they offered two delivery in some of the content modules: Regular Text-based content and AI video-generated. Watching the AI-generated video delivery, I was genuinelly impressed purely by the fact that an AI-generated video content was possible.
+
+## Third Passthrough - LinkedIn Learning ##
+
+
 
 
 
