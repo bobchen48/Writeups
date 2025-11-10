@@ -27,6 +27,8 @@ On the day of the exam, I woke up feeling a little off, not quite myself. I knew
 
 Ultimately, although I am fascinated that AI is as powerful as is already, I also believe AI is a bit overhyped and not as magic as people believe it to be. However, as an IT professional, adopting AI is an essential skill to stay competitive in the job market as I continue down my career.
 
+Additionally, my exam score was a tellsign that if I were to continue down the Azure pathway into AZ-104, I would need to give double the effort and prepare seriously if I am to pass AZ-104.
+
 
 
 
