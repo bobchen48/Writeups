@@ -21,7 +21,12 @@ Although I was happy that I received a discount voucher after the training, I wa
 One thing that amazed me about the Microsoft Course was that they offered two delivery in some of the content modules: Regular Text-based content and AI video-generated. Watching the AI-generated video delivery, I was genuinelly impressed purely by the fact that an AI-generated video content was possible.
 
 ## Third Passthrough - LinkedIn Learning ##
+Both Microsoft's Virtual Training Course and Learn I found it really hard to take good notes to follow so I ended up never taking good notes. As a result, I decided I'd pass it through sheer repetition of content across different course. As a result, I watched a LinkedIn course series after discovering that I could get free access to LinkedIn Learning using my library card through partnerships between LinkedIn Learning and public libaries. 
 
+Looking back, I don't really have much to say about this course as it was a review of my prev. courses.
+
+## Exam Date and after ##
+On exam date, I woke up feeling slightly under the weather. Despite this, I was obligated to take the exam. However, I recall my attitude towards this exam became "I just want to go take the test and get it over with" instead of genuine excitment that I've had from previous certification exam. Despite passing, this was the worst experience I had taking an IT certification. I remember even after the certification, I was just feeling dizzy and needed to get home asap so I can go out and walk so I can shake off my headache I was feeling during and after the exam.
 
 
 
