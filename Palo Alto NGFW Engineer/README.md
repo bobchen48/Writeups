@@ -36,7 +36,7 @@ While I wasn’t surprised, given my limited resources, I was still frustrated b
 
 Shortly after, I impulsively bought an INE course because it was on sale and included Palo Alto labs for extra practice. It wasn’t the wisest decision, but I justified it by planning to pursue JNCIP-ENT later in the year and making use of it one way or another.
 
-Throughout my review, I watched WesleyCyber’s NGFW YouTube series. Although the videos only covered Domain 1 at the time, I found them helpful, especially since I scored 50% in that domain.
+Throughout my review, I watched WesleyCyber’s NGFW YouTube series. Although the videos he released only covered Domain 1 at the time, I found them helpful, especially since I scored 50% in that domain.
 
 Additionally, I built out my Google Doc notes by adding hyperlinks and referencing relevant Palo Alto TechDocs for each topic I found useful. Soon after, I had a fully built-out  exam datasheet–based notes, highlighting key concepts I needed to review prior to retake. I skipped Domain 3: Integration and Automation, as I performed best in it on my first attempt (80%) and it had the lowest weighting (20%).
 
