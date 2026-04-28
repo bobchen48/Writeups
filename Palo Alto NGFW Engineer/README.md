@@ -4,13 +4,17 @@ On 4-28-2026, I was able to clear the [Palo Alto Next Generation Firewall Engine
 ## Resources Used ##
 1. **[Palo Alto Learn (Beacon)](https://learn.paloaltonetworks.com/learn)**: Main resource I used for this certification. This was Palo Alto's official learning platform for all of their certifications, products, features, etc. Given there was a limited publically available resources I had to prepare for this certification, this was the most important resource one that exposed me to many high level concept for this exam.
   
-2. **My Work Environment**: 
+2. **Hands-on configuration**: Since I work with Palo Alto professionally, I had hands-on experience configuring Security Policies, NAT, basic administration on Panorama since 2025.
    
-3. **P**: Complemtnary to S2 Academy's JNCIA Junos JN0-105. This provided me with 300 practice questions that I can practice to test my understand of Juniper CLI, OS, and Networking knowledge from a Juniper perspective. However, because of time constraint, I was only able to get through a third of the practice questions prior to taking my exam.
+3. **(Palo Alto NGFW Engineer Datasheet)[https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/datasheets/education/ngfw-engineer-datasheet.pdf]**
    
-4. **Juniper JNCIA-Junos (JN0-105) - Practice Exam by Nerd Exam**: Similiar to JNCIA-Junos JN0-105 Practice Exams by S2 Academy by S2 academy, this practice exam course module provided an additional 100 practice questions to help me prepare for the Junos exam. But like the other practice exam course, I was not able to complete it all (only finished half) prior to exam date.
+4. CBTNuggets PCNSA & PCNSE by Keith Barker: Since I did not do PCNSA or PCNSE (having only completed a PCCET) before they retired, I figured this would still be a good video series to knock out as part of my initial preparation. While I was able to knock out most of PCNSA, I only got through PCNSE partially before putting this course down in favor of the official Palo Alto Learning Platform. Regardless, these two courses were still helpful giving me exposure into high-level content idea for some of the NGFW Engineer topics as there was a fair amount of overlap in exam topic between PCNSA/PCNSE and new NGFW Engineer exam
+   
+5. **Udemy Course: Palo Alto Networks Next-Generation Firewall Engineer - Exams by Paweł Krakowiak**: I was initially skeptical of this resource because of the mixed reviews by many test takers had given that it did not adaquetly prepare you for the real exam. However, after failing it the first time, I purchased this practice exam course and to my surprise, it revealed big gap in 2 domains I had: SSL/TLS Profile (Certificate Profile, SSL Forward Proxy) & GlobalProtect
+   
+6. **(Wesley Cyber NGFW Engineer Playlist)[https://www.youtube.com/playlist?list=PLltJsgfsuLOit54c49FkjTx2-51S5nVdI]**: Although this playlist is incomplete, I watched the first 3 videos prior to my first attempt and THOROUGHLY gone through the full playlist prior to my 2nd re-attempt. Given that Wes covered most of Domain 1: PAN-OS Networking Configuration, I rate his YouTube series highly valueable being able to watch him configure things hands on
 
-## Initial Preparation and Impressions (Comparing Cisco and Juniper) ##
+## Background and initial preparation ##
 When I first got into Juniper (and as I go through the lessons), I was not only taking notes of the stuff I was learning, but also taking mental notes of the differences I saw beteween Juniper and Cisco. Some notable differences I observed were as follows:
 1. **Juniper SDN-lite architecture**: When I was first introduced to Juniper architecture in my video course, I immediately recalled the SDN architecture in Cisco. The way packets are forwarded between the control plane (Routing Engine) and Forwarding Plane (Forwarding Engine) was very similiar to how SDN Networking works at a foundational level (without the application plane). For me, this made it really easy to comprehend Juniper's architecture because the concepts of how packets flow in Juniper architecture was essentially the same as in an SDN architecture.
 
