@@ -1,5 +1,5 @@
 # Palo Alto Next-Generation Firewall Engineer - Pushing through failure #
-On 4-28-2026, I was able to clear the [Palo Alto Next Generation Firewall Engineer Certification](https://www.paloaltonetworks.com/services/education/palo-alto-networks-ngfw-engineer). 
+On 4-28-2026, I was able to clear the [Palo Alto Next Generation Firewall Engineer Certification](https://www.paloaltonetworks.com/services/education/palo-alto-networks-ngfw-engineer). This was one of the most frustrating exam I have taken in a good while since [Broadcom VCP-VCF (Vmware Cloud Foundation) that I failed back in July 2025](https://github.com/bobchen48/Writeups/tree/main/VCP%20-%20VCF%20(VMware%20Cloud%20Foundation)%205.2). It taught me the importance of viewing failure as a temporary setback, not an identity in the event where if you really want to achieve something that holds a feeling of mastery, you will push through failure
 
 ## Resources Used ##
 1. **[Palo Alto Learn (Beacon)](https://learn.paloaltonetworks.com/learn)**: Main resource I used for this certification. This was Palo Alto's official learning platform for all of their certifications, products, features, etc. Given there was a limited publically available resources I had to prepare for this certification, this was the most important resource one that exposed me to many high level concept for this exam.
@@ -15,21 +15,9 @@ On 4-28-2026, I was able to clear the [Palo Alto Next Generation Firewall Engine
 6. **[Wesley Cyber NGFW Engineer Playlist](https://www.youtube.com/playlist?list=PLltJsgfsuLOit54c49FkjTx2-51S5nVdI)**: Although this playlist is incomplete, I watched the first 3 videos prior to my first attempt and THOROUGHLY gone through the full playlist prior to my 2nd re-attempt. Given that Wes covered most of Domain 1: PAN-OS Networking Configuration, I rate his YouTube series highly valueable being able to watch him configure things hands on
 
 ## Background and initial preparation ##
-When I first got into Juniper (and as I go through the lessons), I was not only taking notes of the stuff I was learning, but also taking mental notes of the differences I saw beteween Juniper and Cisco. Some notable differences I observed were as follows:
-1. **Juniper SDN-lite architecture**: When I was first introduced to Juniper architecture in my video course, I immediately recalled the SDN architecture in Cisco. The way packets are forwarded between the control plane (Routing Engine) and Forwarding Plane (Forwarding Engine) was very similiar to how SDN Networking works at a foundational level (without the application plane). For me, this made it really easy to comprehend Juniper's architecture because the concepts of how packets flow in Juniper architecture was essentially the same as in an SDN architecture.
+Back in Jan 2025, I took (now-retired) Palo Alto Certified Cybersecurity Entry Level Technician (PCCET) as my entry exposure into the world of Palo Alto NGFW. While PCCET was no-where technical, I still appreciated the experience learning it. However, because [PCCET, PCNSA, and shortly-after PCNSE were retired](https://live.paloaltonetworks.com/t5/news/new-security-service-edge-engineer-certification-upcoming/ta-p/997555) in favor of role-based exams, I was not able to test myself against PCNSA content. After reviewing several of the new role-based certification as well as what online forums had to say about them, I determined that NGFW Engineer exam was the most appropriate exam to pursue given its scope.
 
 
-2. **Cisco vs Juniper CLI**: I found Juniper CLI to be more object-oriented and "flat" than Cisco's more layered approach. While in the vLab executing commands (as I go through lessons), I felt that Juniper was very straight forward configuration wise in that once I was in the configuration mode, I can either execute a full command to accomplish a task from edit, or I can go into edit-(insert specific object group), thus making it more straight forward and logically sectioned out.
-   
-3. **Terminology Differences** While Network fundamentals don't change across vendors, Juniper and Cisco's history and design methodology causes them to adopt different terminologies that mean the same thing. For example:
-   - VRF (Cisco) == Routing Instance (Juniper)
-   - Running Config & Startup Config (Cisco) == Active Configuration & Candidate Configuration (Juniper)
-   - Administrative Distance (Cisco) == Route Preference (Juniper)
-
-  These were some important distinction I had to keep in mind when studying because my mind would naturally be oriented towards Cisco terminologies, which then led to me having to remind myself to apply a Juniper mindset, especially as I got closer to the exam date 
-  
-4. **Cisco Administrative Distance (aka Juniper Route Preference) Differences**
-After studying for CCNA for so long and having my brain hard-wired into associating OSPF with 110, RIP with 120, IS-IS with 125 for their default administrative distance, I was having difficulties adopting into Juniper's differences in their Route preference value as I saw OSPF with 150, RIP with 100, IS-IS (which has 2 levels described by Juniper) with 160 for level 1 external and 165 for level 2 external. While you may not necessarily need to memorize each routing protocol's default route preference for JNCIA - Junos (don't quote me on that), I am almost certain that as I move into JNCIS - SP and JNCIS - Enterprise I will need to memorize them.
 
 
 ## Crunching for Time and Exam Date
