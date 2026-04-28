@@ -23,7 +23,7 @@ While I initially felt I was progressing at a decent pace and was able to comple
 
 I then opened the Palo Alto Learning platform (formerly known as Beacon) and continued, reviewing important high-level concepts such as interface types, HA setup, routing, and switching. This is where things got interesting, as I also started gaining exposure to cloud NGFW concepts (VM-Series, CN-Series, Cloud Identity Engine, AI Runtime Security, and more), which completely blew me away because I was very unfamiliar with much of it.
 
-Thankfully, because I had previously completed AZ-900 and the AWS Cloud Practitioner certification, I was comfortable with many high-level cloud concepts that Palo Alto integrates with (such as Azure VNet and AWS VPC). The only one I had no real understanding of was Google Cloud.
+Thankfully, because I had previously completed AZ-900 and the AWS Cloud Practitioner certification, I was comfortable with many high-level cloud concepts that Palo Alto integrates with (such as Azure VNet and AWS VPC). The only one I had no real understanding of was Google Cloud's integration.
 
 One thing I also want to note is that, as I was going through the Palo Alto Learning platform, I built my own Quizlet flashcard deck of concepts to review throughout my exam preparation. I found this especially helpful because it gave me a repository of flashcards that I could periodically review to reinforce concepts through spaced repetition.
 
