@@ -41,7 +41,7 @@ Throughout my review, I watched WesleyCyber’s NGFW YouTube series. Although th
 Additionally, I built out my Google Doc notes by adding hyperlinks and referencing relevant Palo Alto TechDocs for each topic I found useful. Soon after, I had a fully built-out  exam datasheet–based notes, highlighting key concepts I needed to review prior to retake. I skipped Domain 3: Integration and Automation, as I performed best in it on my first attempt (80%) and it had the lowest weighting (20%).
 
 ## Second Attempt ##
-After reviewing everything for a month, I went in for my 2nd attempt, feeling much more confident about what I got wrong the first time. I confidently went through the questions, reading word for word to make sure I understand what I was being asked of. Thanks to the Exam Datasheet notes I took, I was able to pass it the 2nd go-round
+After reviewing everything for a month, I went in for my 2nd attempt, feeling much more confident about what I got wrong the first time. I was reading word for word to make sure I understand what I was being asked of. Thanks to the Exam Datasheet notes I took, I was able to pass it the 2nd time.
 
 ## Advice to Others ##
 
