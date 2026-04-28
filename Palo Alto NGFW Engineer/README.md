@@ -43,7 +43,7 @@ Additionally, I built out my Google Doc notes by adding hyperlinks and referenci
 ## Second Attempt ##
 After reviewing everything for a month, I went in for my 2nd attempt, feeling much more confident about what I got wrong the first time. I was reading word for word to make sure I understand what I was being asked of. Thanks to the Exam Datasheet notes I took, I was able to pass it the 2nd time.
 
-## Advice to Others ##
+## Tips ##
 
 **Understand CCNA-level knowledge, Security+, and Basic Cloud Concepts** : While the exam does not have any real pre-requisite, it implies and demands working (CCNA-level) Networking knowledge, basic Security+ knowledge, and basic Cloud (Azure and AWS mostly) knowledge. Knowing how these work together in tandem with Palo Alto (especially concerning deploying VM-series Firewall) will increase your chances of success.
    
