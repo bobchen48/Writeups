@@ -45,7 +45,7 @@ After reviewing everything for a month, I went in for my 2nd attempt, feeling mu
 
 ## Advice to Others ##
 
-**Understand CCNA-level knowledge, Security+, and Basic Cloud Concepts** : While the exam does not have any real pre-requisite, it implies and demands a working (CCNA-level Networking knowledge), basic Security+ knowledge, and basic Cloud (Azure and AWS mostly) knowledge. Knowing how these work together in tandem with Palo Alto (especially concerning deploying VM-series Firewall) will increase your chances of success.
+**Understand CCNA-level knowledge, Security+, and Basic Cloud Concepts** : While the exam does not have any real pre-requisite, it implies and demands working (CCNA-level) Networking knowledge, basic Security+ knowledge, and basic Cloud (Azure and AWS mostly) knowledge. Knowing how these work together in tandem with Palo Alto (especially concerning deploying VM-series Firewall) will increase your chances of success.
    
 
 
