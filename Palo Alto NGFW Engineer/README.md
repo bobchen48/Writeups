@@ -20,7 +20,7 @@ Back in Jan 2025, I took (now-retired) Palo Alto Certified Cybersecurity Entry L
 
 I started with CBT Nuggets PCNSA and PCNSE course by Keith Barker to build foundational knowledge. Since it was winter, I gave myself until Spring 2026 to prepare rather than rushing to complete it within one to two months, as I wanted a slower steady appraoch and did not want to go out during the winter season. While I initially progressed at at a decent pace and was able to complete the PCNSA course, I found PCNSE content - nearly double PCNSA, to be overwhelming. Halfway through PCNSE, I decided to drop it in favor of learning from the official Palo Alto Learn platform when January 2026 came around and I realized I needed to pick up the pace.
 
-I then switched to Palo Alto Learning platform (formerly Beacon), focusing on reviewing high-level concepts such as interface types, HA setup, routing, and switching. This is where things got interesting, as I was being introduced to cloud NGFW concepts (VM-Series, CN-Series, Cloud Identity Engine, AI Runtime Security, and more), much of which were unfamiliar.
+I then switched to Palo Alto Learning platform (Beacon), focusing on reviewing high-level concepts such as interface types, HA setup, routing, and switching. This is where things got interesting, as I was being introduced to cloud NGFW concepts (VM-Series, CN-Series, Cloud Identity Engine, AI Runtime Security, and more), much of which were unfamiliar.
 
 Fortunately, because I had completed AZ-900 and the AWS Cloud Practitioner certification, I was okay comprending with many high-level cloud concepts that Palo Alto integrates with (such as Azure VNet and AWS VPC). My main gap was Google Cloud integration.
 
