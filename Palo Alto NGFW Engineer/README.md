@@ -30,20 +30,16 @@ After I finished the Palo Alto learning course and first two videos of WesleyCyb
 As I went through the exam, a steady sense of unease set in. Many questions left me uncertain—I could narrow them down to two choices, but it often came down to a 50–50 guess. In the end, I failed.
 
 ## Reviewing weak areas ## 
-While I wasn’t surprised to failing the exam due to my owm unfamiliartiy with questions presented, I was still frustrated by the outcome and the percentages in my results. Frustrated, I went home and pulled up the Exam Datasheet, copying it into a Google Doc. I then commented on every topic listed under each subdomain that I was uncomfortable with.
+While I wasn’t surprised to failing the exam due to my owm unfamiliartiy with questions presented, I was still frustrated by the outcome and the percentages in my results. Frustrated, I went home, reviewed my weak areas,  and pulled up the Exam Datasheet. I copied it into a Google Doc and commented all subdomains that I was uncomfortable with.
 
 Shortly after, I impulsively bought an INE course because it was on sale and included Palo Alto labs for extra practice. It wasn’t the wisest decision, but I justified it by planning to pursue JNCIP-ENT later in the year and making use of it one way or another.
 
 Throughout my review, I watched WesleyCyber’s NGFW YouTube series. Although the videos he released only covered Domain 1 at the time, I found them helpful, especially since I scored 50% in that domain.
 
-Additionally, I built out my Google Doc notes by adding hyperlinks and referencing relevant Palo Alto TechDocs for each topic I found useful. Soon after, I had a fully built-out  exam datasheet–based notes, highlighting key concepts I needed to review prior to retake. I skipped Domain 3: Integration and Automation, as I performed best in it on my first attempt (80%) and it had the least weighted subdomain (20%).
+Throughout review, I built out my Google Doc notes by adding hyperlinks and referencing relevant Palo Alto TechDocs for each topic I found useful. Eventually, I had a fully built-out  exam datasheet–based notes, highlighting key concepts I needed to review prior to retake.
 
 ## Second Attempt ##
 After reviewing everything for a month, I went in for my 2nd attempt, feeling much more confident about what I got wrong the first time. I was reading word for word to make sure I understand what I was being asked of. Thanks to the Exam Datasheet notes I took, I was able to pass it the 2nd time.
-
-## Tips ##
-
-**Understand CCNA-level knowledge, Security+, and Basic Cloud Concepts** : While the exam does not have any real pre-requisite, it implies and demands working (CCNA-level) Networking knowledge, basic Security+ knowledge, and basic Cloud (Azure and AWS mostly) knowledge. Knowing how these work together in tandem with Palo Alto (especially concerning deploying VM-series Firewall) will increase your chances of success.
    
 
 
