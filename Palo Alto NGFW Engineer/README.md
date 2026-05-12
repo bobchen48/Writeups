@@ -22,7 +22,7 @@ I then switched to Palo Alto Learning platform (Beacon), focusing on reviewing h
 
 Fortunately, because I had completed AZ-900 and the AWS Cloud Practitioner certification, I was okay comprending with many high-level cloud concepts that Palo Alto integrates with (such as Azure VNet and AWS VPC). My main gap was Google Cloud integration.
 
-Throughout the process, I built my a Quizlet flashcard deck to review key concepts. I found this especially valueable for reviewing via spaced repetition.
+Additionally, I built my a Quizlet flashcard deck to review key concepts. I found this especially valueable for reviewing via spaced repetition.
 
 ## First Attempt ##
 After I finished the Palo Alto learning course and first two videos of WesleyCyber's NGFW playlist that he released, I went in for my first attempt into the exam.
