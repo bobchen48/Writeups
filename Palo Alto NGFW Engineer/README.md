@@ -25,7 +25,7 @@ Fortunately, because I had completed AZ-900 and the AWS Cloud Practitioner certi
 Additionally, I built my a Quizlet flashcard deck to review key concepts. I found this especially valueable for reviewing via spaced repetition.
 
 ## First Attempt ##
-After I finished the Palo Alto learning course and first two videos of WesleyCyber's NGFW playlist that he released, I went in for my first attempt into the exam.
+After I finished the Palo Alto learning course and first two videos of WesleyCyber's NGFW playlist that he released, I went in for my first crack at the exam
 
 As I went through the exam, a steady sense of unease set in. Many questions left me uncertain—I could narrow them down to two choices, but it often came down to a 50–50 guess. In the end, I failed.
 
