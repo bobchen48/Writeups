@@ -30,7 +30,7 @@ After I finished the Palo Alto learning course and first two videos of WesleyCyb
 As I went through the exam, a steady sense of unease set in. Many questions left me uncertain—I could narrow them down to two choices, but it often came down to a 50–50 guess. In the end, I failed.
 
 ## Reviewing weak areas ## 
-While I wasn’t surprised to failing the exam due to my owm unfamiliartiy with questions presented, I was still frustrated by the outcome and the percentages in my results. Frustrated, I went home, reviewed my weak areas,  and pulled up the Exam Datasheet. I copied it into a Google Doc and commented all subdomains that I was uncomfortable with.
+While I wasn’t surprised to failing the exam due to my owm unfamiliartiy with questions presented, I was still frustrated by the outcome and the percentage breakdown within my results. Frustrated, I went home, reviewed my weak areas,  and pulled up the Exam Datasheet. I copied it into a Google Doc and commented all subdomains that I was uncomfortable with.
 
 Shortly after, I impulsively bought an INE course because it was on sale and included Palo Alto labs for extra practice. It wasn’t the wisest decision, but I justified it by planning to pursue JNCIP-ENT later in the year and making use of it one way or another.
 
