@@ -18,9 +18,13 @@ With that I went to work and starting learning for my AZ-104
 
 3. [TutorialDojo AZ-104 Practice Exam](https://tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/): One of the most affordable practice exam out there and probably the best one all around in my opinion. The questions are worded very closely like how Microsoft word the exam. I can't see myself passing this exam ever without it
 
+--Between First and Second Attempt--
 4. [Microsoft Learn YouTube Playlist for AZ-104 by Bob Tichelman](https://www.youtube.com/playlist?list=PLahhVEj9XNTcj4dwEwRHozO3xcxI_UHYG): Official Microsoft Learn Playlist for AZ-104. I watched this after failing my first attempt. The course was very well presented that I wish I incorporated it into my study schedule prior to my first attempt. It is pretty decent all around.
 
+5. Boson AZ-104 ExSim: Boson's Exsim for AZ-104. I pulled an impulsive buy on this. But I thought it was better to be safe than sorry with an additional resources. While I did not use it to its max capacity, I still believe it helped me critically think as the questions were making me question how much I knew about Azure at all.
+
 ## Summer Preparation (June and July) ##
+
 
 ## First Attempt ##
 
