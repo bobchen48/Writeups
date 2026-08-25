@@ -24,7 +24,15 @@ With that I went to work and starting learning for my AZ-104
 5. Boson AZ-104 ExSim: Boson's Exsim for AZ-104. I pulled an impulsive buy on this. But I thought it was better to be safe than sorry with an additional resources. While I did not use it to its max capacity, I still believe it helped me critically think as the questions were making me question how much I knew about Azure at all.
 
 ## Summer Preparation (June and July) ##
-I started by watching Udemy course AZ-104 Microsoft Azure Administrator course with SIMULATIONS by John Christopher because I saw a lot of high positive review praising this course. Unlike many of my other certification I have done, I took my time going through this course because during the summer, I was also focused on maximizing my time outdoor (working out at the gym + going to the pool) while the weather was good so I did not want to aggressively plow through it. After I finished this course, I went on and completed MS's AZ-104 coursework
+The first thing I did before watching any video was I copied over the Exam Objective to my Google Docs. This serve as a my notes that I add/edit/modify overtime as I learn new content. Hyperlinks and comments were heavily used to help build context around the information I was writing down
+
+I started by watching Udemy course AZ-104 Microsoft Azure Administrator course with SIMULATIONS by John Christopher because I saw a lot of high positive review praising this course. Strangely enough, I was struggling balancing my time because I also made a commitment to myself that this summer I was going to go to exercise more (Gym, walking, swimming). As a result, I went for a more smooth and steady approach instead of an aggressive approach for this certification. However, at the same time, I noticed I was bad with my time at several points that I was getting pressured against the clock so I needed to pick up the pace a bit.
+
+Another thing I wanted to note was that during June, Microsoft had an AI Skillsfest. By participating and finishing an approved playlist, you could earn a free voucher. Seeing this as an opportunity to get a free voucher to use as a safety net in case I failed the first time, I participated and obtained my free voucher.
+
+Having booked my first attempt for August 10, I felt pressured against the time because I did not finish my Udemy course + MSLearn course until 3rd week of July. As such, I purchased TutorialsDojo and did all the Section Reviews. This was where my confidence started to take a hit as TutorialDojos exposed so many blindspots and gaps. Even if I could describe at a high level what each Azure PaaS service was able to do on a fundamental level, I was struggling to recognize how it integrate with other Azure PaaS as well as the limitation with certain Azure PaaS. I went online to do a bit of deep dive for 
+
+AZ-104 tests your ability to BOTH configure and troubleshoot as an Azure administrator, not recalling fundamental. You have to be able to recognize trade-offs with certain decision or limitations that are associated with certain decisions. Being able to identify and defend a decision was key that frame how I later approached TutorialDojo practice exam.
 
 
 
