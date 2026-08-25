@@ -1,6 +1,6 @@
 # Azure AZ-104 Experience - Turning thoughts into reality #
 
-On August 24, I accomplished the Azure Administer Associate, a goal that originally started out as a joke/banter when a friend and I were discussing the benefit of learning Azure. I had already completed the AZ-900 and AI-900 last year. However, I knew if I wanted to prove I was the real deal and that I can navigate Azure environment: AZ-104 would be a good credential to hold. After I completed the Palo Alto NGFW Exam, I started preparing for this to make my dream of achieving this coveted certification into a reality
+On August 24 2026, I accomplished the Azure Administer Associate, a goal that originally started out as a joke/banter when a friend and I were discussing the benefit of learning Azure. I had already completed the AZ-900 and AI-900 last year. However, I knew if I wanted to prove I was the real deal and that I can navigate Azure environment: AZ-104 would be a good credential to hold. After I completed the Palo Alto NGFW Exam, I started preparing for this to make my dream of achieving this coveted certification into a reality
 
 ## Prequel ##
 On the week after I passed my [Palo Alto NGFW Exam](https://github.com/bobchen48/Writeups/tree/main/Palo%20Alto%20NGFW%20Engineer), I was contemplating my next target certification. I had three on my mind: AZ-104, JNCIP-ENT, or CCNP Enterprise. That Saturday evening, I had bought a piece of steak
@@ -12,7 +12,7 @@ For some reason, that taste stuck with me and I asked myself "man how awesome wo
 With that I went to work and starting learning for my AZ-104
 
 ## Main Resources Used ##
-1. [AZ-104 Microsoft Azure Administrator course with SIMULATIONS by John Christopher](https://www.udemy.com/share/107xza3@_nfjuNYgcH8phfUx5i7HZRWoBra87FaT8tLz0XGlT2e76q7JPEbIu6vcmOEfTAn6/): This was my foundation course I used to get a high level foundational overview of all the Azure Services tested on the AZ-104 exam. I picked this course because I valued being able to see the Azure Portal visually as the instructor is teaching. However, I do have to acknowledge that like all foundational courses, it won't be enough by itself to help you pass.
+1. [Udemy AZ-104 Microsoft Azure Administrator course with SIMULATIONS by John Christopher](https://www.udemy.com/share/107xza3@_nfjuNYgcH8phfUx5i7HZRWoBra87FaT8tLz0XGlT2e76q7JPEbIu6vcmOEfTAn6/): This was my foundation course I used to get a high level foundational overview of all the Azure Services tested on the AZ-104 exam. I picked this course because I valued being able to see the Azure Portal visually as the instructor is teaching. However, I do have to acknowledge that like all foundational courses, it won't be enough by itself to help you pass.
 
 2. [Microsoft AZ-104 Official Learning Path](https://learn.microsoft.com/en-us/training/courses/az-104t00): MS's official learning path to AZ-104. This was my secondary resource to complement the Udemy course
 
@@ -24,6 +24,8 @@ With that I went to work and starting learning for my AZ-104
 5. Boson AZ-104 ExSim: Boson's Exsim for AZ-104. I pulled an impulsive buy on this. But I thought it was better to be safe than sorry with an additional resources. While I did not use it to its max capacity, I still believe it helped me critically think as the questions were making me question how much I knew about Azure at all.
 
 ## Summer Preparation (June and July) ##
+I started by watching Udemy course AZ-104 Microsoft Azure Administrator course with SIMULATIONS by John Christopher because I saw a lot of high positive review praising this course. Unlike many of my other certification I have done, I took my time going through this course because during the summer, I was also focused on maximizing my time outdoor (working out at the gym + going to the pool) while the weather was good so I did not want to aggressively plow through it. After I finished this course, I went on and completed MS's AZ-104 coursework
+
 
 
 ## First Attempt ##
