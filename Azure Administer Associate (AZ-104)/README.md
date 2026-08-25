@@ -27,21 +27,25 @@ With that I went to work and starting learning for my AZ-104
 ## Summer Preparation (June and July) ##
 The first thing I did before watching any video was I copied over the Exam Objective to my Google Docs. This serve as a my notes that I add/edit/modify overtime as I learn new content. Hyperlinks and comments were heavily used to help build context around the information I was writing down
 
-I started by watching Udemy course AZ-104 Microsoft Azure Administrator course with SIMULATIONS by John Christopher because I saw a lot of high positive review praising this course. While going through the course, I was doing the Labs from WhizLabs AZ-104. Given the WhizLabs AZ-104 course I purchased also come with a sandbox, I would sometime also follow the video course by attempting to deploy (as much as I could per WhizLabs sandbox limitation) what the instructor deploy. While I could not necessarily replicate the lab setup instructor had, being able to navigate through teh Azure Portal was already very valueable.
+I started by watching Udemy course AZ-104 Microsoft Azure Administrator course with SIMULATIONS by John Christopher because I saw a lot of high positive review praising this course. While going through the course, I was doing the Labs from WhizLabs AZ-104. Given the WhizLabs AZ-104 course I purchased also come with a sandbox, I would sometime also follow the video course by attempting to deploy (as much as I could per WhizLabs sandbox limitation) what the instructor deploy. While I could not necessarily replicate the lab setup instructor had, being able to navigate through teh Azure Portal was already very valuable.
 
 While I had a smooth and steady pace, I was struggling with my time because this summer, I also made a commitment to myself that I would exercise more (Gym, walking, swimming). As a result, I went for a more smooth and steady approach instead of an aggressive approach for this certification. However, at the same time, I noticed I was bad with my time at several points that I was getting pressured against the clock so I needed to pick up the pace a bit.
 
-Another thing I wanted to note was that during June, Microsoft had an AI Skills fest. By participating and finishing an approved playlist, you could earn a free voucher. Seeing this as an opportunity to get a free voucher to use as a safety net in case I failed the first time, I participated and obtained my free voucher.
+Side Note: during June, Microsoft had an AI Skills fest. By participating and finishing an approved playlist, you could earn a free voucher. Seeing this as an opportunity to get a free voucher to use as a safety net in case I failed the first time, I participated and obtained my free voucher.
 
-Having booked my first attempt for August 10, I started to realize that I was going a bit too slow as I only finished the 2 foundational courses on 3rd week of July. Pressed by time, I purchased TutorialsDojo and started practicing questions via Section Review first. This was where things started to go wrong as TutorialDojos exposed so many blind spots and gaps in what I knew. Even if I could describe at a high level what each Azure PaaS service was able to do on a fundamental level, I was struggling to recognize how it integrate with other Azure PaaS as well as the limitation with certain Azure PaaS. I went online to do a bit of deep dive for 
+Having scheduled my first attempt for August 10, I started to realize that I was going a bit too slow as I only finished the 2 foundational courses on 3rd week of July. Pressed by time, I purchased TutorialsDojo and started practicing questions via Section Review first. This was where things started to go wrong as TutorialDojos exposed so many blind spots and gaps in what I knew. Even if I could describe at a high level what each Azure PaaS service was able to do on a fundamental level, I was struggling to recognize how it integrate with other Azure PaaS as well as the limitation with certain Azure PaaS. I went online to do a bit of deep dive for 
 
-Humbled by the Section Review, I went back and did some more WhizLabs
+Humbled by the Section Review, I read the explanation, modified my notes for what I learned and applied it. Every practice question set served as learning material for the next one. After I finished all the Section Reviews, I started trying my luck on the Practice Test Questions, which like the section review, I was just constantly seeing more and more blind spots. Alas, I could not complete my TutorialDojos training prior to my first attempt.
 
 
 
 ## First Attempt ##
+Because I did not finish all hte practice questions on TutorialDojos prior to my first attempt, my mindset going into my first attempt was that this will serve as real feedback (in the event I fail) for where my actual weak spots are in the exam. Because I had 2 free attempts (1 reimbursed by my employer, another by Microsoft, I went in with no real expectation. In the end, I failed with a score of 635
 
 ## Root Cause Analysis - strengthening my weak areas ##
+Despite failing my first attempt, I was still very shocked by my score (635) as it was only 65 points off of a pass. Feeling a mixed of disbelief, shock, and disappointment all at the same time, I went home that night and started watching Microsoft Learn YouTube Playlist for AZ-104 by Bob Tichelman. This course was very useful to where I asked "Why I didn't use this as my primary foundational course?" However, later that night, I was hit with a sudden surge of frustration where I went "wow, I can't believe I bombed it".
+
+The disappointment and frustration hit me so hard in the moment that I bought Boson ExSim for AZ-104 (just to give myself more realistic practice questions I can test my knowledge against). While I can't say with certainty I made the right purchase
 
 ## Retry ##
 
