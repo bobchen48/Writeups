@@ -60,7 +60,7 @@ That distinction became important in my preparation. The sheer difficulty of the
 
 In my final 4 days (Thursday to Sunday) leading up to my attempt, I spent time going through every single practice question set on TutorialsDojo at least twice each (sometimes even three). In between those practice questions, I watched random YouTube videos and read [r/AzureCertifiation](https://www.reddit.com/r/AzureCertification/) reddit threads to pick up tips and tricks for how to ace this exam. One particular quote from this [YouTube Video](https://youtu.be/SiB2sas8VBk?si=QMqxkRwAxQhHXFZE) stood out to me
 
-"My Preparation matched the exam...I aligned with how it think"
+> "My Preparation matched the exam...I aligned with how it think"
 
 With that quote/mentality in mind, I revisited the TutorialsDojo Practice Question set again and there something clicked: I started recognizing patterns and distraction, and how to pick out the relevant information from the question that the question is asking (while ignoring distraction).
 
