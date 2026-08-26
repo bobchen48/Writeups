@@ -65,7 +65,7 @@ In my final 4 days (Thursday to Sunday) leading up to my attempt, I spent time g
 
 With that quote/mentality in mind, I revisited the TutorialsDojo Practice Question set again and there something clicked: I started recognizing patterns and distraction, and how to pick out the relevant information from the question that the question is asking (while ignoring distraction).
 
-Despite the confidence boost, my mood still did not align with the exam. Strangely enough, that changed when I found myself enjoying The [Pokémon Battle Frontier Theme Song - Full](https://youtu.be/BqA6m7Z0ibk?si=iRaC-xo5yYAwzP0i). It's hard to describe, but it resonated with me in a way that after looping the theme song while studying at least 20 to 50 times on Saturday and Sunday, I woke up Monday thinking to myself "I'm gonna do well today"
+Despite the confidence boost, my mood still did not align with the exam. Funny enough, that changed when I found myself listening and enjoying [Pokémon Battle Frontier Theme Song - Full](https://youtu.be/BqA6m7Z0ibk?si=iRaC-xo5yYAwzP0i). It's hard to describe, but it resonated with me in a way that after looping the theme song while studying at least 20 to 50 times on Saturday and Sunday, I woke up Monday thinking to myself "I'm gonna do well today"
 
 ## Retry ##
 During my second attempt, my approached changed, I stopped looking at distraction and focused on what matters. I heavily used MS Learn (with smart searching techniques) to mitigate amount of guessing I did. Focusing on only requirement that matters pertaining to the question especially helped during Case Study this attempt when I was down to 5 minutes on the clock and I had to finish a Case Study. I was able to comfortably answer 4 out of 5 case study questions because I focused on what matters. 
@@ -75,4 +75,4 @@ In this attempt, I also did not even entertain the idea of going back and review
 Long and behold. I passed!
 
 ## Conclusion ##
-Relieved, I was so happy I passed this coveted exam that was well respected by many in the industry.
+Relieved, I was so happy I passed this coveted exam that was well respected by many in the industry. This was one that made me believe I can achieve anything I put my mind towards and commit.
