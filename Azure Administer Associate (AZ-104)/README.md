@@ -47,7 +47,7 @@ As frustrating as it was, I began to realize that this was exactly what I needed
 In spite of this, I could not complete my TutorialsDojos training prior to date of my first attempt.
 
 ## First Attempt ##
-Because I could not finish all the practice questions available on TutorialsDojos before to my first attempt, I went into the exam viewing my first attempt as an opportunity (if I fail) to get real feedback, identify weak spot, and understand weak areas that needed major improvements. Having 2 attempts free of charge was very valueable. I could go in not feeling like  anything was on the line.
+Because I could not finish all the practice questions available on TutorialsDojos before to my first attempt, I went into the exam viewing attempt #1 as an opportunity (if I fail) to get real feedback and identify areas that need improvements. Having 2 attempts free of charge was very valueable. I went in without much stress.
 
 In the end I failed with 635
 
