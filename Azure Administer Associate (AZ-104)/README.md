@@ -72,7 +72,7 @@ During my second attempt, my approached changed, I stopped looking at distractio
 
 In this attempt, I also did not even entertain the idea of going back and reviewing after finishing a section. I trusted my intuition that my first answer would likely be my best answer on all of them; avoid second guessing myself and hope.
 
-Long and behold. I passed!
+Long and behold. I passed with a score of 750!
 
 ## Conclusion ##
 Relieved, I was so happy I passed this coveted exam that was well respected by many in the industry. This was one that made me believe I can achieve anything I put my mind towards and commit.
