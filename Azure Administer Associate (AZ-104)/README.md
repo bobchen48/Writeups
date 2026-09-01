@@ -63,7 +63,7 @@ In my final 4 days (Thursday to Sunday) leading up to my attempt, I spent time g
 
 > "My Preparation matched the exam...I aligned with how it think"
 
-With that quote/mentality in mind, I revisited the TutorialsDojo Practice Question set again and there something clicked: I started recognizing patterns and distraction, and how to pick out the relevant information from the question that the question is asking (while ignoring distraction).
+With that quote/mentality in mind, I revisited the TutorialsDojo Practice Question set again and that was when something clicked: I started recognizing patterns and distraction, and how to pick out the relevant information from the question that the question is asking (while ignoring distraction).
 
 Despite the confidence boost, my mood still did not align with the exam. Funny enough, that changed when I found myself listening and enjoying [Pokémon Battle Frontier Theme Song - Full](https://youtu.be/BqA6m7Z0ibk?si=iRaC-xo5yYAwzP0i). It's hard to describe, but it resonated with me in a way that after looping the theme song while studying at least 50 times each on Saturday and Sunday, I woke up Monday thinking to myself "I'm gonna do well today"
 
