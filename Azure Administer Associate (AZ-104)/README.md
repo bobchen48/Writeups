@@ -21,7 +21,7 @@ With that I went to work and starting learning for my AZ-104
 
 5. [Microsoft Learn YouTube Playlist for AZ-104 by Bob Tichelman](https://www.youtube.com/playlist?list=PLahhVEj9XNTcj4dwEwRHozO3xcxI_UHYG): Official Microsoft Learn Playlist for AZ-104. I watched this after failing my first attempt. The course was very well presented that I wish I incorporated it into my study schedule prior to my first attempt. It is pretty decent all around.
 
-6. Boson AZ-104 ExSim: Boson's ExSim for AZ-104. I pulled an impulsive buy on this. But I thought it was better to be safe than sorry with an additional resources. While I did not use it to its max capacity, I still believe it helped me critically think as the questions were making me question how much I knew about Azure at all.
+6. [Boson AZ-104 ExSim: Boson's ExSim for AZ-104](https://boson.com/product/exsim-max-for-microsoft-az-104/): I pulled an impulsive purchase on this truthfully. But I thought it was better to be safe than sorry with an additional resource after I failed the first time. While I did not use it to its max capacity, I still believe it helped me critically think as the questions were making me question how much I knew about Azure at all.
 
 ## Summer Preparation (June and July) ##
 The first thing I did before watching any video was copying over the AZ-104 Exam Objective to my Google Docs. This document became my living set of notes, which I continuously refined as I learned new material. I leaned heavily towards utilizing hyperlinks and comments to build context around the information I was writing down
