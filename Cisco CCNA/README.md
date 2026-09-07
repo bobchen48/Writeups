@@ -37,7 +37,7 @@ Still not feeling confident, I was browsing through r/ccna  subreddit of what ot
 ## Advice to other aspiring CCNA test takers ##
 > [!IMPORTANT]
 > **Learn how to Subnet!**
-   > The single most important skills you need to have for this exam (and real life too). A lot of questions will involve subnetting, so mastering this is essential. If you enjoy math, then subnetting should be fun.
+> The single most important skills you need to have for this exam (and real life too). A lot of questions will involve subnetting, so mastering this is essential. If you enjoy math, then subnetting should be fun.
 
 > [!TIP]
 > Lab Lab Lab!
