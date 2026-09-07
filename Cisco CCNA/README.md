@@ -40,14 +40,14 @@ Still not feeling confident, I was browsing through r/ccna  subreddit of what ot
 > The single most important skills you need to have for this exam (and real life too). A lot of questions will involve subnetting, so mastering this is essential. If you enjoy math, then subnetting should be fun.
 
 > [!TIP]
-> Lab Lab Lab!
+> **Lab Lab Lab!**
 > Like many folks online say, you HAVE TO LAB if you want to pass this exam. And it is not just because labbing reinforces theory, but also it helps you with any CLI-based questions. Knowing what those commands do helps you quickly find correct set of commands you need. Once you lab to the point it is borderline boring, that’s when you know you have it down comfortably because you can recall the correct commands and type it quickly.
 
 > [!TIP]
-> ExSim Boson and Pacing
+> **ExSim Boson and Pacing**
 > As Cisco exams do not let you go back once you answer a question, you must figure out how to pace yourself throughout the exam given this constraint. This was why I thought ExSim significantly increased 
 my confidence because it gave me an opportunity to practice in a simulated test environment where I do not go back to a previous answer while figuring out a comfortable pace that works for me.
 
 > [!TIP]
-> Answer Every Question
+> **Answer Every Question**
 > What makes Cisco Exams challenging is that once you answer a question, you are not allowed to go back. So it is important to try answering every question to give yourself a non-zero chance of getting a question right in the event where you are presented with a question you do not know the answer to.
