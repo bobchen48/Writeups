@@ -34,9 +34,9 @@ Side Note: Microsoft hosted an AI Skills Fest in June. By participating in and c
 
 With my first attempt scheduled for August 10, I started to realize that I was moving bit too slowly. By the third week of July, I only finished the 2 foundational courses. Pressed by time, I purchased TutorialsDojo and started working through questions starting with Section Review. 
 
-This was where things to get real
-
-TutorialsDojos exposed a significant number of blind spots in my knowledge. While I could describe what each Azure PaaS service did on a high level, I struggled recognizing how it integrate with other Azure PaaS as well as the limitation with certain Azure PaaS. It became clear to me that I needed to understand What I needed to use and WHEN I needed to use X Azure PaaS service and when to use Y Azure PaaS service.
+This was where real learning started occurring:
+> [!NOTE]
+> TutorialsDojos exposed a significant number of blind spots in my knowledge. While I could describe what each Azure PaaS service did on a high level, I struggled recognizing how it integrate with other Azure PaaS as well as the limitation with certain Azure PaaS. It became clear to me that I needed to understand What I needed to use and WHEN I needed to use X Azure PaaS service and when to use Y Azure PaaS service.
 
 Blown out by my score during the Section Review, I refined my approach. I read the explanation, researched topics I did not understand, and refine my notes for any important information that I felt Microsoft would try to catch me on. Every practice question became a learning opportunity, and the knowledge I gained from one practice question could then be applied to the next one. 
 
