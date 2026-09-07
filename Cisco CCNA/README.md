@@ -31,26 +31,23 @@ comfortably navigate the command line.
 ***III. Two Weeks Before Exam*** - IMPORTANT!
 
 Still not feeling confident, I was browsing through r/ccna  subreddit of what other CCNA test takers did when preparing for the exam. I noticed how much people praised Boson ExSim as part of their preparation and how they would have likely not passed if it was not for ExSim. Learning this, I decided to buy ExSim and give it a try. In my first ExSim exam (Exam A), I got 50 percent, which blew my confidence a little. But then I remembered reading on subreddit that many people also had similar experience where they scored low score on Boson prior to passing the exam. The important thing to remember was that Boson was a great indicator for weak topic areas. So, I reviewed all my wrong answers and took note on it before going back to take it in study mode. Repeating this for Exam B, C, and D where I first took them in exam mode, reviewed my answers, then do them in study mode, I slowly increased my confidence for both simulation and theory questions. 
+> [!IMPORTANT]
+> One thing I want to note here is how to optimize Boson ExSim. When you are taking the Practice Exam in Exam mode, try to treat it like a REAL EXAM. Once you commit an answer, Go next. Do NOT look back because you will not be able to in the actual exam. It is absolutely okay if your score is bad on your first Boson Exam because it exposes your weak area or area that you aren't so confident in. For example, if you are taking too long to answer a routing question (determining what route a given packet will travel through given a destination IP and a image of a routing table (featuring likely multiple roues), then it is likely a good idea to review how to read/interpret routing tables.
 
-Important thing I want to note here is how to optimize Boson ExSim. When you are taking the Practice Exam in Exam mode, try to treat it like a REAL EXAM. Once you commit an answer, Go next. Do NOT look back because you will not be able to in the actual exam. It is absolutely okay if your score is bad on your first Boson Exam because it exposes your weak area or area that you aren't so confident in. For example, if you are taking too long to answer a routing question (determining what route a given packet will travel through given a destination IP and a image of a routing table (featuring likely multiple roues), then it is likely a good idea to review how to read/interpret routing tables.
+## Advice to other aspiring CCNA test takers ##
+> [!IMPORTANT]
+> Learn how to Subnet!
+> The single most important skills you need to have for this exam (and real life too). A lot of questions will involve subnetting, so mastering this is essential. If you enjoy math, then subnetting should be fun.
 
-## Advice to other aspiring CCNA test takers ## 
+> [!TIP]
+> Lab Lab Lab!
+> Like many folks online say, you HAVE TO LAB if you want to pass this exam. And it is not just because labbing reinforces theory, but also it helps you with any CLI-based questions. Knowing what those commands do helps you quickly find correct set of commands you need. Once you lab to the point it is borderline boring, that’s when you know you have it down comfortably because you can recall the correct commands and type it quickly.
 
-***I. Lab Lab Lab!***
-
-Like many folks online say, you HAVE TO LAB if you want to pass this exam. And it is not just because labbing reinforces theory, but also it helps you with any CLI-based questions. Knowing what those commands do helps you quickly find correct set of 
-commands you need. Once you lab to the point it is borderline boring, that’s when you know you have it down comfortably because you can recall the correct commands and type it quickly.
-
-***II.	ExSim Boson and Pacing***
-
-As Cisco exams do not let you go back once you answer a question, you must figure out how to pace yourself throughout the exam given this constraint. This was why I thought ExSim significantly increased 
+> [!TIP]
+> ExSim Boson and Pacing
+> As Cisco exams do not let you go back once you answer a question, you must figure out how to pace yourself throughout the exam given this constraint. This was why I thought ExSim significantly increased 
 my confidence because it gave me an opportunity to practice in a simulated test environment where I do not go back to a previous answer while figuring out a comfortable pace that works for me.
 
-***III. Answer Every Question***
-
-What makes Cisco Exams challenging is that once you answer a question, you are not allowed to go back. So it is important to try answering every question to give yourself a non-zero chance of getting a question right in the event where you are presented
-with a question you do not know the answer to.
-
-***IV.	Learn how to Subnet!***
-
-The single most important skills you need to have for this exam (and real life too). A lot of questions will involve subnetting, so mastering this is essential. If you enjoy math, then subnetting should be fun.
+> [!TIP]
+> Answer Every Question
+> What makes Cisco Exams challenging is that once you answer a question, you are not allowed to go back. So it is important to try answering every question to give yourself a non-zero chance of getting a question right in the event where you are presented with a question you do not know the answer to.
