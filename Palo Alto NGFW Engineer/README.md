@@ -40,7 +40,12 @@ Additionally, I built out my Google Doc notes by adding hyperlinks and referenci
 
 ## Second Attempt ##
 After reviewing everything for a month, I went in for my 2nd attempt, feeling much more confident about what I got wrong the first time. I was reading word for word to make sure I understand what I was being asked of. Thanks to the Exam Datasheet notes I took, I was able to pass it the 2nd time.
-   
+
+## Conclusion / Advice to Other Test Takers ##
+
+If there was something I can say about this exam, it is that this exam is very identity heavy. While there are couple of questions with regards to traditional networking, this exam more so test your ability to configure a Palo Alto Device. CCNA-level knowledge is ASSUMED.
+>[!TIP]
+> If you want to pass this exam, please familiarize yourself with the Palo Alto GUI Interface. It is a very interface-heavy exam Know Palo Alto Best Practices. Spend Time clicking around BOTH Palo Alto PAN-OS as well as Panorama.
 
 
 
